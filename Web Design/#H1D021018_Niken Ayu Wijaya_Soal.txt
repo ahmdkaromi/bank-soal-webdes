@@ -1,0 +1,48 @@
+Aplikasi internet yang memungkinkan pengambilan file dengan cepat adalah ....
+A. WWW
+B. Milis
+C. Newsgroup
+D. FTP
+ANSWER: D
+
+Halaman aplikasi website terproteksi yang menghubungkan pemilik akun hosting dengan program-program pendukung website dalam web server atau web hosting adalah ....
+A. Plesk
+B. EHCP
+C. cPanel
+D. sPanel
+ANSWER: C
+
+Perintah HTML untuk menentukan tebal garis table adalah ....
+A. Align
+B. Table border
+C. Colspan
+D. Rowspan
+ANSWER: B
+
+Pada saat membuat halaman homepage, sebaiknya menggunakan nama...
+A. homepage.css
+B. index.html
+C. index.com
+D. Google.id
+ANSWER: B
+
+Apa yang paling pertama dilakukan dalam pembuatan sebuah website?
+A. Membuat sketsa website pada kertas
+B. Membuat HTML
+C. Mempublikasikan website
+D. Mengedit website
+ANSWER: A
+
+Untuk memberi gambar pada belakang web diatur dengan mengubah nilai atribut ....
+A. Fontcolor
+B. Body
+C. Bgcolor
+D. Body Background
+ANSWER: D
+
+Ruangan yang terdapat dalam harddisk tempat menyimpan berbagai data, file –file, gambar, video, data email, statistik, database, dan lain sebagainya yang akan ditampilkan di website adalah ….
+A. Web hosting 
+B. Website
+C. Hyperlink
+D. Domain
+ANSWER: A

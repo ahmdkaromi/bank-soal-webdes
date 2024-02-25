@@ -1,0 +1,49 @@
+Maksud dari intranet yang tepat adalah
+A. Jaringan nirkabel antara satu klien dan server 
+B. Jaringan kabel antara banyak klien dan server
+C. Jaringan nirkabel dengan pembatasan klien
+D. internet yang berbentuk wireless
+JAWAB: D
+
+Fungsi utama web server adalah
+A. Menyediakan data berdasarkan request klien
+B. Menerima permintaan HTTP dari klien
+C. Membersihkan berbagai cache yang terdapat pada penyimpanan
+D. Melakukan pemeriksaan terhadap security
+JAWAB: B
+
+Berikut ini perintah dalam HTML untuk mengganti baris adalah
+A. h2
+B. td
+C. br
+D. p
+JAWAB: C
+
+Berikut yang bukan termasuk konsep dasar dari web desain adalah
+A. Estetika
+B. Navigasi
+C. Grafik
+D. Penulisan
+JAWAB: A
+
+Aktivitas user untuk menyelesaikan suatu kegiatan disebut
+A. User activity
+B. User flow
+C. User research
+D. User persona
+JAWAB: B
+
+Pembuatan desain web dapat menggunakan software berikut, kecuali
+A. Bootstrap
+B. javascript
+C. Template
+D. CSS
+JAWAB: C
+
+<h2 style color: "white">
+syntax CSS di atas dinamakan
+A. Value
+B. Elemen
+C. Type
+D. attribute
+JAWAB: B

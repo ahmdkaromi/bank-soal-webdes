@@ -1,0 +1,48 @@
+Apa kepanjangan dari internet?
+A. Intercommunication Network
+B. Intermilan Network
+C. Interconnected Network
+D. Intermediate Network
+ANSWER: C
+
+Apa kepanjangan dari FTP?
+A. File Transfer Protocol
+B. File Transcript Protocol
+C. Failure Transfer Protocol
+D. Failure Transfer Protocol
+ANSWER: A
+
+Dibawah ini manakah tag HTML yang berfungsi memunculkan sebuah gambar?
+A. <span>
+B. <img>
+C. <ul>
+D. <div>
+ANSWER: B
+
+Dibawah ini yang bukan merupakan konsep dasar dari Web Design adalah...
+A. Navigation
+B. Usability
+C. Color Blindness
+D. Usebility
+ANSWER: D
+
+Dibawah ini yang bukan merupakan bagian Design dari proses pembuatan UI UX adalah
+A. Site Map
+B. Wireframe
+C. Mockup
+D. Mockdown
+ANSWER: D
+
+Disaat kita membuat sebuah desisn UI UX, di bagian manakah kita dapat menentukan kalau yang kita buat itu sudah matang dan memenuhi konsep dari Web Design?
+A. Wireframe
+B. Interactive Prototype
+C. Testing & evaluation
+D. Site Map
+ANSWER: C
+
+Dibawah ini manakah Property dari CSS yang berfungsi untuk mengubah posisi suatu text?
+A. Text-align
+B. Font-size
+C. Padding
+D. Margin
+ANSWER: A

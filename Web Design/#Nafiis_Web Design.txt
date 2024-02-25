@@ -1,0 +1,49 @@
+Situs web dapat dijadikan transaksi bisnis baik barang jasa,dll. Penjelasan tersebut merupakan fungsi dari?
+A. Fungsi informasi
+B. Fungsi komunikasi
+C. Fungsi transaksi
+D. Fungsi informasi
+ANSWER: C
+
+Protokol jaringan lapisan aplikasi (application layer) yang dikembangkan untuk membantu proses transfer antar komputer merupakan pengertian dari?
+A. HTTP
+B. WWW
+C. URL
+D. Host
+ANSWER: A
+
+Apa tag yang digunakan untuk membuat tabel pada HTML?
+A. <p>
+B. <tb>
+C. <tables>
+D. <table>
+ANSWER: D
+
+Karakter fiksi yang dibuat secara keseluruhan sebagai gambaran untuk client adalah?
+A. User persona
+B. User editor
+C. User administrator
+D. User author
+ANSWER: A
+
+Pada zaman ini banyak macam-macam style web yang beraneka ragam.<br>Ketika sedang mendesain web, kita menggunakan desain yang sekarang sedang trend.<br>Trend ini disebut juga?
+A. Style guide
+B. UI trend
+C. Inspiration style
+D. Sitemap
+ANSWER: B
+
+Mengapa penentuan warna pada pembuatan web sangat penting?
+A. Supaya web terlihat mewah 
+B. Supaya web terlihat aneh
+C. Supaya audience tertarik melihat web
+D. Supaya banyak pengikut
+ANSWER: C
+
+Yang tidak digunakanuntuk mengatur latar belakang (background) adalah?
+a. Background-color
+b. Background-image
+c. Background-repeat
+d. Background-font
+e. Background-position
+ANSWER: D  

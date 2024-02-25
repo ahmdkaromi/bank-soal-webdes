@@ -1,0 +1,48 @@
+Jaringan komputer yang luas cakupannya dapat mencapai satu negara bahkan benua adalah?
+A. CAN
+B. MAN
+C. WAN
+D. LAN
+ANSWER: C
+
+Perangkat lunak yang berfungsi sebagai penerima permintaan yang dikirimkan melalui browser kemudian memberikan tanggapan permintaan dalam bentuk halaman situs web adalah?
+A. Web Server
+B. Web Browser
+C. Web Designer
+D. Web Developer
+ANSWER: A
+
+Apa fungsi DOCTYPE dalam HTML?
+A. Untuk penanda memulai dan mengakhiri elemen
+B. Untuk bagian kepala dari dokumen
+C. Untuk judul web
+D. Untuk deklarasi type dokumen
+ANSWER: D
+
+Apa yang dimaksud dengan tahap mockup pada proses design?
+A. Wireframe yang diberi warna, gambar, dan konten
+B. Sketsa sederhana yang berisi layout sebagai kerangka
+C. Diagram susunan informasi konten
+D. Simulasi produk jika digunakan oleh user
+ANSWER: A
+
+Apa yang dimaksud dengan tahap interactive prototype pada proses design?
+A. Wireframe yang diberi warna, gambar, dan konten
+B. Sketsa sederhana yang berisi layout sebagai kerangka
+C. Diagram susunan informasi konten
+D. Simulasi produk jika digunakan oleh user
+ANSWER: D
+
+Salah satu jenis selektor CSS adalah class. Untuk mendeklarasikan sebuah selektor class, tanda apa yang digunakan didepan nama class?
+A. Titik dua (:)
+B. Titik koma (;)
+C. Titik (.)
+D. Bintang (*)
+ANSWER: C
+
+Tag HTML apa yang memiliki peran untuk menunjukan bagian halaman web?
+A. Heading
+B. Body
+C. Table
+D. Tab
+ANSWER: A

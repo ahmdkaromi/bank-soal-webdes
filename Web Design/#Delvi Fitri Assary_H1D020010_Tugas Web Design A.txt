@@ -1,0 +1,54 @@
+Internet pada awalnya itu disebut dengan...
+A. Intranet
+B. Network
+C. Computer Network
+D. ARPANet
+ANSWER : D
+
+Program aplikasi yang memungkinkan pengguna untuk menayangkan dan berinteraksi dengan tulisan, gambar, video, music dan berbagai informasi lainnya yang terdapat pada halaman Web di sebuah situs di internet adalah …
+A. Browser
+B. Search Engine
+C. Sosial Media
+D. Spam
+E. Acrobat Reader
+ANSWER: A
+
+Pada HTML terdapat sebuah tag yang digunakan untuk menulis huruf dengan ukuran yang berbeda, semakin besar ukuran tag tersebut maka semakin kecil ukuran hurufnya.<br>Ukurannya hingga 6, tag ini adalah...
+A. Font Size
+B. Style
+C. Heading
+D. Break Line
+E. Size
+ANSWER: C
+
+Tag hr (horizontal line) yang termasuk elemen kosong tanpa penutup pada HTML, biasanya digunakan untuk...
+A. Menjadikan tampilan vertikal
+B. Menjadikan tampilan horizontal
+C. Membuat sebuah kolom
+D. Membuat sebuah baris
+E. Membuat sebuah garis
+ANSWER: E
+
+Berikut yang harus diperhatikan dalam mendesain website, antara lain...
+A. Estetika, Usefulness (Fungsionalitas), Usability Pengguna
+B. Estetika, Keunikan, Kegunaan
+C. Animasi, Tingkat Kenyamanan, Tampilan
+D. Tampilan, Warna, Bentuk Gambar
+E. Usefulness (Fungsionalitas), Tampilan, Tingkat Kenyamanan
+ASNWER: A
+
+Aktivitas desain yang menyangkut Sistem Layanan Produk, yaitu kumpulan produk, layanan, dan strategi komunikasi yang terintegrasi yang dihasilkan dan dikembangkan oleh aktor atau jaringan aktor (perusahaan, institusi, organisasi nirlaba, dll.) untuk menciptakan nilai, biasa disebut...
+A. Konsep Desain
+B. Keterampilan Desain
+C. Keunggulan Desain
+D. Strategi Desain
+E. Fungsionalitas Desain
+ANSWER: D
+
+Kepanjang dari CSS adalah...
+A. Cascading Style Sheets
+B. Cascade System Server
+C. Connector Style Server
+D. Cascading Structure Sheets
+E. Cascade Style Server
+ANSWER: A

@@ -1,0 +1,48 @@
+Berikut ini adalah Software untuk mendisain Halaman Web (Web Design Software), kecuali?
+A. Adobe Image Ready
+B. Macromedia Dreamweaver
+C. Google Chrome
+D. Microsoft Frontpage
+ANSWER: C
+
+Di bawah ini merupakan salah satu interface design yang benar adalah?
+A. Bandwidth and interaction.
+B. Maintenance
+C. Information architecture
+D. Site definition and planning
+ANSWER: A
+
+Berikut ini yang merupakan Kunci dari good document design adalah?
+A. Keseimbangan content
+B. Struktur
+C. Presentasi
+D. A, B, dan C benar
+ANSWER: D
+
+Heading HTML mempunyai level ukuran huruf?
+A. 1 sampai 6
+B. 1 sampai 7
+C. 1 sampai 8
+D. 1 sampai 9
+ANSWER: A
+
+Untuk memberi warna teks web diatur dengan mengubah nilai atribut?
+A. Body
+B. Title
+C. Bgcolor
+D. Fontcolor
+ANSWER: D
+
+Apa saja istilah-istilah dalam CSS?
+A. Style rule, Style sheet, Declaration
+B. Style sheet, Selector, Declaration
+C. Selector
+D. Style rule, Style sheet, Selector
+ANSWER: D
+
+Apakah kepanjangan dari HTML?
+A. Hyper Text Mark Up Language
+B. Hyper Text Mark Language
+C. Hight Text Mark Up Language
+D. Hight Text Mark Language
+ANSWER: A

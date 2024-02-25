@@ -1,0 +1,49 @@
+Berikut yang bukan merupakan fungsi umum situs web adalah
+A. Fungsi Informasi
+B. Fungsi Komunikasi
+C. Fungsi Elektronik
+D. Fungsi Transaksi
+ANSWER : C
+
+Kepanjangan dari Internet adalah
+A. Interconnected Network
+B. Interconnection Network
+C. Interconnection Net
+D. Interconnected Net
+E. Interconnection Networking
+ANSWER : A
+
+Kepanjangan dari HTML adalah ...
+A. HyperText Mark Language
+B. HyperTransaction Mark Language
+C. HyperTransaction Markup Language
+D. HyperText Markup Language
+ANSWER : D
+
+Berikut ini yang bukan 7 konsep dasar web design adalah ...
+A. Navigasi
+B. Kesederhanaan
+C. Realitas
+D. Penulisan
+ANSWER : C
+
+Fungsi dari Elemen DOCTYPE adalah ...
+A. Untuk mengkonfirmasi bahwa merupakan dokumen HTML
+B. Untuk mengurai berbagai info terkait judul dokumen
+C. Memberikan info kepada browser mengenai versi html yang digunakan
+D. Sebagai tanda penutup dokumen
+ANSWER : C
+
+Berikut yang merupakan kekurangan HTML adalah ...
+A. Bukan bahasa pemrograman sehingga tidak menggunakan kompiler
+B. Dapat disisipi gambar baik gambar statis atau dinamis (animasi) termasuk menggunakan gambar untuk dijadikan hyperlink
+C. Memiliki tag-tag yang begitu banyak sehingga susah dipelajari untuk yang masih awam
+D. Merupakan bahasa penkodean yang dapat digunakan pada berbagai jenis mesin komputer yang berbeda dan berbagai macam sistem operasi yang berbeda
+ANSWER : C
+
+Kepanjangan dari CSS adalah ...
+A. Counter Strike Strike
+B. Cascading Style Sheets
+C. Counter Strike Sheets
+D. Cascading Strike Sheets
+ANSWER : B

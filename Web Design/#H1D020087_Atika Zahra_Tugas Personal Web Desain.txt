@@ -1,0 +1,48 @@
+Di bawah ini fungsi web design, kecuali...
+A. Informasi
+B. Komunikasi
+C. Keamanan
+D. Transaksi
+ANSWER : C
+
+Sistem informasi berbasis digital yang sudah ada sebelum internet muncul yaitu..
+A. Telegram
+B. Telegraf
+C. Telepon
+D. Telekomunikasi
+ANSWER : B
+
+Kepanjangan dari HTML adalah...
+A. Hypertext Markup Language
+B. Hypertext Makeup Language
+C. Hypertext Markup Large
+D. Hyperlink Markup Language
+ANSWER : A
+
+Di bawah ini termasuk ke dalam web browser, kecuali...
+A. Mozilla Firefox
+B. Google Chrome
+C. UC Browser
+D. Facebook
+ANSWER : D
+
+Tag yang digunakan untuk mendefinisikan konten atau isi dari sebuah dokumen adalah...
+A. HTML
+B. HEAD
+C. BODY
+D. TITLE
+ANSWER : C
+
+Di bawah ini kelebihan HTML, kecuali...
+A. Dapat disisipi gambar
+B. Menghasilkan web yang statis
+C. Dapat disisipi bahasa pemrograman untuk mempercantik web
+D. Bukan merupakan bahasa pemrograman
+ANSWER : B
+
+Tag yang digunakan untuk membuat paragraf baru adalah..
+A. <p>
+B. <br>
+C. <hr>
+D. <head>
+ANSWER : A

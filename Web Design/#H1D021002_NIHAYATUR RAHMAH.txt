@@ -1,0 +1,48 @@
+Sebelum Internet muncul, telah ada beberapa sistem komunikasi yang berbasis digital, salah satunya adalah?
+A. Sistem Telegram
+B. Sistem komputasi
+C. Sistem Telegraf
+D. Sistem Sinyal
+ANSWER: C
+
+HTML merupakan singkatan dari?
+A. HyperText Mark Language
+B. HyperText Microsoft Language
+C. HyperText Markapp Language
+D. HyperText Markup Language
+ANSWER: D
+
+HTML merupakan protokol yang digunakan untuk mentransfer data atau dokumen dari? 
+A. web server ke vsc
+B. web server ke browser
+C. web design ke web browser
+D. web server ke web design
+ANSWER: B
+
+7 konsep dasar web desging kecuali?
+A. Kepercayaan pengguna
+B. Navigasi
+C. Buta warna
+D. Grafik
+ANSWER: A
+
+Salah satu tujuan web design adalah untuk memecahkan?
+A. Teori
+B. Misteri
+C. Tujuan
+D. Masalah
+ANSWER: D
+
+Yang bukan tujuan dari user research?
+A. Mengetahui siapa usernya
+B. Mengetahui bagaimana inframen usernya
+C. Mengetahui apa saja keinginan usernya
+D. Mengetahui apa saja kebutuhan usernya
+ANSWER: C
+
+user persona adalah karakter fiksi yang kita buat untuk menggambarkan?
+A. user secara modern
+B. user secara keseluruhan
+C. user secara khusus
+D. user secara logika
+ANSWER: B

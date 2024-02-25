@@ -1,0 +1,48 @@
+Berikut yang bukan merupakan fungsi situs web secara umum adalah...
+A. Menekankan pada kualitas konten, karena tujuan situs ini mnyampaikan isinya
+B. Menyimpan informasi tentang nama host ataupun nama domain
+C. Sebaiknya berisi teks dan grafik
+D. Fasilitas yang memberikan fungsi informasi, news, file, company dll.
+ANSWER: B
+
+Berikut kepanjangan dari URL yang tepat adalah...
+A. Unit Resource Locator
+B. Uniform Resource Locator
+C. Unit Resource Local
+D. Uniform Resource Local
+ANSWER: B
+
+Berikut yang bisa dilakukan dengan HTML, kecuali...
+A. Membuat form yang bisa digunakan untuk menangani registrasi dan transaksi via web
+B. Menambahkan objek-objek seperti audio, video, dan animasi
+C. Mengatur tampilan dari halaman web dan isinya
+D. Memformat elemen yang untuk dimunculkan satu kali dalam satu halaman web
+ANSWER: D
+
+Koneksi dan komunikasi yang dilakukan 2 komputer dimana satu sisi bertindak sebagai client dan sisi lain sebagai server adalah…..
+A. Client
+B. Server
+C. Konsep client server
+D. Client Server
+ANSWER: C
+
+Cipher merupakan algoritma matematis yang digunakan untuk proses penyandian plaintext menjadi ciphertext.<br>Berikut cipher yang tergolong dalam kriptografi klasik yaitu...
+A. Cipher substitusi
+B. Cipher transversi
+C. Cipher transisi
+D. Cipher delesi
+ANSWER: A
+
+Deretan kata di belakang nama domain yang mengindikasikan pemilik tertinggi domain tersebut dan jenis dari domain tersebut adalah...
+A. Top Level Domain (TLD)
+B. Global Top Level Domain (gTLD)
+C. Country Code Top Level Domain (ccLTD)
+D. Second Level Domain (SLD)
+ANSWER: A
+
+Suatu metode dalam pemasangan kode CSS yang mana kode CSS ditulis dalam satu file terpisah dan disimpan dengan ekstensi .css lalu memanggil file tersebut pada semua halaman web yang memerlukannya yaitu...
+A. Internal Style Sheet
+B. External Style Sheet
+C. Import CSS
+D. Inline Stye Sheet 
+ANSWER: B

@@ -1,0 +1,48 @@
+Beberapa hal dibawah merupakan fungsi situs web sebagai media informasi, kecuali ... 
+A. Menekankan kualitas konten dengan tujuan bahwa situs web digunakan untuk media informasi
+B. Situs web dinamis untuk komunikasi
+C. Berisi teks dan grafik 
+D. Memberikan fasilitas fungsi news, file, library, preference, dsb.  
+ANSWER: B
+
+Telegraf adalah pendahulu internet dimana pengiriman data dilakukan menggunakan media ... 
+A. Massa
+B. Infrared
+C. Elektromagnetik 
+D. Satelit
+ANSWER: C
+
+Sistem kriptografi memiliki karakteristik sebagai berikut, kecuali ...
+A. Keamanan sistem terletak pada kerahasiaan kunci 
+B. Keamanan sistem terletak pada kerahasiaan algoritma
+C. Kriptosistem yang baik punya keyspace yang besar
+D. Kriptosistem yang baik dapat menahan serangan yang telah dikenal sebelumnya
+ANSWER: B
+
+Berikut merupakan kekurangan dari HTML adalah ... 
+A. Dapat digunakan di berbagai jenis mesin komputer yang berbeda dan berbagai macam sistem operasi yang berbeda
+B. Dapat disisipi gambar statis atau dinamis
+C. Dapat disisipi bahasa pemrograman 
+D. Menghasilkan halaman yang statis
+ANSWER: D
+
+Algoritma enkripsi yang aman adalah ... 
+A. short-cut attack
+B. monoalphabetic substitution 
+C. transposition ciphers
+D. caesar substitution chiper
+ANSWER: A
+
+Konsep dasar pertama untuk mengukur baik tidaknya performa website adalah ... 
+A. Kesederhanaan
+B. Navigasi
+C. Grafik
+D. Buta warna
+ANSWER: B
+
+Yang bukan merupakan posisi dari z-index adalah ...
+A. Absolute
+B. Fixed
+C. Sticky
+D. Center
+ANSWER: D

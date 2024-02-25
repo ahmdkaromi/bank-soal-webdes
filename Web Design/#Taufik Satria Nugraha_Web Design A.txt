@@ -1,0 +1,55 @@
+Sistem jaringan komputer yang saling terhubung secara global dengan menggunakan sistem standar global transmission control protocol  untuk menghubungkan perangkat di seluruh dunia adalah pengertian dari …
+A.Internet 
+B.Intranet
+C.LAN
+D.MAN 
+E.WAN
+ANSWER : A
+
+Bahasa pemrograman standar yang digunakan untuk membuat sebuah halaman web, yang kemudian dapat diakses untuk menampilkan berbagai informasi di dalam sebuah penjelajah web Internet disebut dengan …
+A.CSS
+B.HTML
+C.Javascript
+D.PHP 
+E.Mysql
+ANSWER : B
+
+Berikut ini terdapat beberapa aspek yang perlu diperhatikan dalam membuat sebuah website, kecuali …
+A.Usability
+B.Navigation
+C.Desain Grafis
+D.Simplicity
+E.Accessability
+ANSWER : C
+
+Suatu desain tata kelola tampilan konten-konten pada website yang akan ditampilkan kepada client atau penerima informasi melalui world wide web adalah pengertian dari …
+A.Motion Grafis
+B.Desain Publikasi
+C.Desain Grafis
+D.Desain Web
+E.Desain Kemasan
+ANSWER : D
+
+Dibawah ini adalah fungsi fungsi dari web desain, kecuali …
+A.Fungsi Komunikasi
+B.Fungsi Informasi
+C.Fungsi Entertainment
+D.Fungsi Transaksi
+E.Fungsi Hiburan
+ANSWER : E
+
+Style yang digunakan untuk mengatur tampilan dari halaman web dan menghasilkan tampilan web yang indah Menggunakan …
+A.CSS
+B.HTML
+C.Javascript
+D.PHP
+E.Mysql
+ANSWER : A
+
+Kumpulan halaman-halaman yang digunakan untuk menampilkan informasi teks, gambar diam atau gerak, animasi, suara, dan atau gabungan dari semuanya itu baik yang bersifat statis maupun dinamis yang membentuk satu rangkaian bangunan yang saling terkait dimana masing-masing dihubungkan dengan jaringan-jaringan halaman (hyperlink) disebut dengan …
+A.Web Desain
+B.Website
+C.HTML
+D.Internet
+E.Web Developer
+ANSWER : B

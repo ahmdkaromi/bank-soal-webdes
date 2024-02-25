@@ -1,0 +1,48 @@
+Fungsi dari desain web dibawah ini yaitu..
+A. fungsi kebutuhan
+B. sebagai gaya hidup
+C. fungsi branding produk
+D. informasi, komunikasi, entertainment, transaksi
+ANSWER : D
+
+Nama unik yang diberikan untuk mengidentifikasi nama server computer seperti web server atau e-mail server dijaringan internet disebut..
+A. Nama domain
+B. Nama profil
+C. Nama e-mail
+D. Nama asli
+ANSWER : A
+
+Bahasa pemrograman yang biasa digunakan untuk membuat halaman web adalah pengertian dari...
+A. HTML
+B. Web
+C. Internet
+D. WWW
+ANSWER : A
+
+Tag HTML yang digunakan untuk menandai sebuah paragraph dari dokumen HTML yang dibuat adalah…
+A. <p>
+B. <b>
+C. <br>
+D. </b>
+ANSWER: A
+ 
+Dalam pembuatan sebuah website yang paling pertama dilakukan adalah.. 
+A. Membuat html
+B. Membuat sketsa website pada kertas.
+C. Mempublikasikan website
+D. Mengedit website
+ANSWER: B
+
+Halaman utama yang pertama kali tampil begitu pengunjung mengunjungi website adalah ….
+A. Navigator
+B. Konten
+C. Link
+D. Homepage
+ANSWER: D
+
+Bahasa khusus yang berfungsi untuk memperindah tampilan web adalah...
+A. Codeigniter
+B. Laravel
+C. CSS
+D. PHP
+ANSWER : C

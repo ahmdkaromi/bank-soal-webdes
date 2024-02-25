@@ -1,0 +1,48 @@
+Perintah untuk mengganti baris pada HTML adalah?
+A. <tr>
+B. <i>
+C. <br>
+D. <p>
+ANSWER: C
+
+Dalam pembuatan HTML software yang biasa digunakan adalah?
+A. Mozilla
+B. Sublime
+C. Chrome
+D. Excel
+ANSWER: B
+
+Localhost dapat dijalankan dengan?
+A. XAMPP
+B. WWW
+C. Chrome
+D. Photoshop
+ANSWER: A
+
+Salah satu model pada kriptografi modern ialah?
+A. Waterfall
+B. Prototype
+C. Linear
+D. Caesar Chiper
+ANSWER: D
+
+HTML merupakan singkatan dari?
+A. Hypertext Markup Languange
+B. Hypertext Merk Languange
+C. Hyperread Markup Languange
+D. Hypertext Markup Long
+ANSWER: A
+
+Salah satu web browser adalah?
+A. Photoshop
+B. Ms Word
+C. Mozilla
+D. Playstore
+ANSWER: C
+
+FTP singkatan dari?
+A. File Transfer Premiere
+B. File Troll Protocols
+C. Field Transfer Protocol
+D. File Transfer Protocol
+ANSWER: D

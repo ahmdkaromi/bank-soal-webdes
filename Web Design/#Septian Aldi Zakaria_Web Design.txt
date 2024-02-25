@@ -1,0 +1,48 @@
+Apa kepanjangan dari HTTP
+a. Hypertext Transfer Provider
+b. Hypertrail Type Protocol
+c. Hypertask Telecom Player
+d. Hypertext Transfer Protocol
+ANSWER: D
+
+Apa itu URL
+a. Unique Resort Location
+b. Uniform Resource Locator
+c. Universal Rent Location
+d. University Red London
+ANSWER: B
+
+Apa kepanjangan dari HTML
+a. Hypertext Massive Language
+b. Hypertext Messed Language
+c. Hypertext Markup Language
+d. Hypertext Million Language
+ANSWER: C
+
+Bahasa yang digunakan untuk mendesain sebuah web sederhana biasanya adalah
+a. HTML
+b. HTTP
+c. URL
+d. LOFI
+ANSWER: A
+
+Bahasa yang dapat membantu dalam mendesain sebuah web agar terlihat lebih cantik adalah
+a. CSS
+b. HTML
+c. C
+d. C++
+ANSWER: A
+
+Nama dari sebuah proses pembuatan front-end biasa juga disebut
+a. IU/<3
+b. UI/US
+c. UI/UX
+d. IU/UR
+ANSWER: B
+
+CSS merupakan singkatan dari
+a. Color Shading Shape
+b. Chasing Select Soft
+c. Cascading Style Sheet
+d. Choosing Something Self
+ANSWER: C

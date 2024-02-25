@@ -1,0 +1,48 @@
+Proses langkah pembuatan aplikasi berbasis web yang dilalui dengan tahap teknologi jaringan, internet dan bahasa pemrograman adalah?
+A. Pemrograman c++
+B. Algoritma pemrograman
+C. Pemrograman web
+D. Web desain
+ANSWER: C
+
+Kepanjangan dari HTML adalah?
+A. Hyper Text Markup Language
+B. Hyper Link Mobile Language
+C. Hyper Text Markup Languenge
+D. Hyper This Mobile Lose
+ANSWER: A
+
+Tag HTML yang memiliki peran penting untuk menunjukan bagian halaman web adalah?
+A. Heading
+B. Body
+C. Table
+D. Row
+ANSWER: A
+
+Bahasa khusus yang berfungsi untuk mempercantik atau memperindah tampilan web adalah?
+A. CSS
+B. Laravel
+C. Codeigniter
+D. PHP
+ANSWER: A
+
+Tag HTML yang berfungsi untuk membuat judul pada halaman adalah?
+A. <html>
+B. <title>
+C. <body>
+D. <p>
+ANSWER: B
+
+Tabel tag <tr> pada HTML saat membuat tabel berfungsi untuk?
+A. Membuat kolom
+B. Membuat baris
+C. Membuat judul
+D. Membuat list
+ANSWER: B
+
+Saat membuat list pada HTML dibagi menjadi tiga, diantaranya?
+A. Ordered list, unordered list dan descripsion list
+B. Deskripsi, terarah dan terurut
+C. Panjang, pendek, dan sedang
+D. Terutut, simple dan tersusun
+ANSWER: A

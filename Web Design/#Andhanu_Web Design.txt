@@ -1,0 +1,48 @@
+HTML merupkan singkatan dari...
+A. Hyper Link Markup Language
+C. Hyper Team Markup Language
+C. Hyper Tool Markup Language
+D. Hyper Text Markup Language
+ANSWER: D
+
+Berikut ini perintah untuk mengganti baris pada HTML adalah...
+A. br
+B. tr
+C. td
+D. p
+ANSWER: A
+
+Pada tahun berapa internet pertama kali dibentuk...
+A. 1969
+B. 1996
+C. 1989
+D. 1696
+ANSWER: A
+
+Berikut ini adalah Bahasa Pemrograman Web, kecuali
+A. XML 
+B. Javascript 
+C. CSS
+D. EXL
+ANSWER: D
+
+Alamat yang digunakan untuk menemukan sebuah website pada dunia internet adalah ….
+A. Web hosting
+B. Website
+C. Hyperlink
+D. Domain
+ANSWER: D 
+
+Untuk membuat sebuah website dibutuhkan bahasa pemrograman yang disebut dengan script.<br>Dan script yang paling mendasar dalam pembuatan web...
+A. Link
+B. HTML
+C. Konten
+D. CSS
+ANSWER: B
+
+Perintah atau type masukkan untuk menampilkan berupa pilihan adalah...
+A. Radio
+B. Checkbox
+C. Submit
+D. Resume
+ANSWER: B

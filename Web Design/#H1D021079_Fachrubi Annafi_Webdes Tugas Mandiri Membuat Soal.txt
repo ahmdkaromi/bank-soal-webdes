@@ -1,0 +1,48 @@
+Pengertian dari internet yang paling tepat berikut ini adalah ...
+A. Jaringan komputer untuk bermain media sosial
+B. Jaringan komputer untuk bermain game online
+C. Komputer dapat membuka situs web
+D. Konektifitas komputer dan alat komunikasi lainnya dari seluruh dunia
+ANSWER: D
+
+Aplikasi berikut ini biasanya digunakan untuk browsing internet, yang bukan adalah ...
+A. Google Chrome
+B. Safari
+C. Opera
+D. Waze
+ANSWER: D
+
+Kode atau bahasa pemrograman yang digunakan untuk membuat sebuah halaman Web adalah ...
+A. HTTP (Hyper Text Transfer Protocol)
+B. URL (Uniform Resource Locator)
+C. FTP (File Transfer Protocol)
+D. HTML (Hyper Text Markup Language)
+ANSWER: D
+
+Diantara aspek dibawah ini yang harus diperhatikan saat membuat sebuah website, kecuali ...
+A. Mudah diakses
+B. Navigasi yang baik
+C. Konsep dalam penulisan
+D. Tema yang mewah dan elegan
+ANSWER: D
+
+Berikut ini merupakan tipe dari web designer, kecuali ...
+A. Front-End Designer
+B. Information Architect
+C. Programmer
+D. User
+ANSWER: D
+
+Yang pertama kali dilakukan dalam pembuatan sebuah website adalah ...
+A. Membuat html
+B. Mengedit website
+C. Mempublikasikan website
+D. Membuat sketsa website
+ANSWER: D
+
+Yang tidak digunakan untuk mengatur latar belakang (background) adalah ...
+A. background-image
+B. background-color
+C. background-position
+D. background-font
+ANSWER: D

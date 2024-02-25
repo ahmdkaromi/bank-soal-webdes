@@ -1,0 +1,48 @@
+Sebuah sistem komunikasi yang global, untuk menghubungkan komputer dan jaringan komputer di seluruh dunia adalah penjelasan tentang?
+A. Intranet
+B. Internet
+C. TCP/IP
+D. World Wide Web
+ANSWER: B
+
+Untuk mengakses layanan World Wide Web dari sebuah komputer digunakan program web client yang sering disebut dengan?
+A. Search Engine
+B. Download
+C. Browser
+D. Upload
+ANSWER: C
+
+Apa yang dimaksud dengan URL (Uniform Resource Locator)?
+A. Kumpulan beberapa halaman web
+B. Halaman pertama dari sebuah website
+C. Nama Komputer
+D. Alamat lengkap web
+ANSWER: D
+
+Berikut ini perintah untuk mengganti baris pada HTML adalah...
+A. br
+B. tr
+C. td
+D. p
+ANSWER: A
+
+Untuk mendefinisikan judul kita perlu menggunakan tag?
+A. <head>
+B. <style>
+C. <body>
+D. <title>
+ANSWER: D
+
+Tag yang digunakan untuk mendefinisikan jenis font, warna dan ukuran teks adalah?
+A. <head>
+B. <font>
+C. <form>
+D. <area>
+ANSWER: B
+
+Untuk memberi warna teks web diatur dengan mengubah nilai atribut?
+A. Body
+B. Title
+C. Fontcolor
+D. Head
+ANSWER: C

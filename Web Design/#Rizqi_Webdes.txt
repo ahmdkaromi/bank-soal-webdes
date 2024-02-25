@@ -1,0 +1,50 @@
+Sistem penamaan pada alamat internet sering disebut sebagai ...
+A. URL (Uniform Resource Locator) 
+B. FTP (File Transfer Protocol) 
+C. HTTP (Hyper Text Transfer Protocol) 
+D. WWW (Word Wide Web) 
+ANSWER: A
+
+Untuk keperluan akses internet diperlukan program aplikasi browser, kecuali ...
+A. Mozilla Firefox
+B. Opera
+C. Ms. Outlook
+D. Safari
+ANSWER: C
+
+Struktur kode HTML memiliki tiga bagian yakni deklarasi, head, dan body.<br>Manakah bagian yang akan ditampilkan pada web browser?
+A. Deklarasi
+B. Head
+C. Body
+D. Deklarasi dan Body
+ANSWER: C
+
+Berikut ini adalah Software untuk mendisain Halaman Web (Web Design Software), kecualI ...
+A. Microsoft Frontpage
+B. Macromedia dreamweaver 
+C. Macromedia fireworks
+D. Google chrome
+ANSWER: D
+
+Bahasa khusus yang berfungsi untuk mempercantik atau memperindah tampilan web adalah ...
+A. CSS
+B. Laravel
+C. Codeigniter
+D. PHP
+E. Javascript
+ANSWER: A
+
+Yang bertugas untuk membuat halam web menjadi lebih hidup serta dapat menentukan fungsi atau efek yang diterapkan pada website adalah ...
+A. CSS
+B. Laravel
+C. Codeigniter
+D. PHP
+E. Javascript
+ANSWER: E
+
+CSS merupakan kepanjangan dari ....
+A. Cascading Style Sheet 
+B. Cascading Sensitive Sheet
+C. Cascading select Sheet
+D. Case Style Sheet
+ANSWER: A

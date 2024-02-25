@@ -1,0 +1,48 @@
+WWW merupakan singkatan dari
+A. World Wide War
+B. World Wide Web
+C. Word Web Wide
+D. World With Web
+ANSWER: B
+
+URL merupakan singkatan dari
+A. Unit Resource Location
+B. Unit Resource Locators
+C. Uniform Resource Locators
+D. Unit Remake Locators
+ANSWER: C
+
+HTML adalah singkatan dari
+A. Hyperball Text Markup Language
+B. HippoText Much Language
+C. HyperText Markdown Language
+D. HyperText Markup Language
+ANSWER: D
+
+Proses konseptualisasi, perencanaan, dan pembangunan koleksi file elektronik yang menentukan tata letak, warna, gaya teks, struktur, grafik, gambar, dan penggunaan fitur interaktif yang mengantarkan halaman ke pengunjung situs adalah pengertian dari
+A. Web Design
+B. Landing Page
+C. Responsive Web
+D. Web Developer
+ANSWER: A
+
+Styling dalam html berguna untuk
+A. Membuat kode menjadi stylish
+B. Membuat kode dapat dilihat lebih cantik
+C. Membuat page pada html menjadi lebih cantik
+D. Membuat page pada html menjadi lebih jelek
+ANSWER: C
+
+Yang bukan merupakan strategi dalam menyusun desain web
+A. Menetapkan tujuan sebuah web
+B. Identifikasi target audience yang melihat
+C. Menentukan Brand dari sebuah web
+D. Menentukan tujuan strategi dibuat
+ANSWER: D
+
+CSS merupakan singkatan dari
+A. Cascade Style Sin
+B. Cascade Style Sheets
+C. Corn Style Sheets
+D. Chin Style Sum
+ANSWER: B

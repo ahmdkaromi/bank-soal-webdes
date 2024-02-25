@@ -1,0 +1,48 @@
+Sebagai sarana hiburan/penggunaan animasi gambar dan element bergerak dapat meningkatkan mutu persentasi design,meski tetap harus mempertimbangkan kecepatan downloadnya. Merupakan pengertian...
+A. Fungsi Komunikasi
+B. Fungsi Entertainment
+C. Fungsi Transaksi
+D. Fungsi Informasi
+ANSWER: B
+
+Apa kepanjangan dari WWW...
+A. World Wave Web
+B. World Wise Wave
+C. Wave Wolrd Web
+D. World Wide Web
+ANSWER: D
+
+Sistem kriptografi (cryptosystem) yang baik harus memiliki karakteristik sebagai berikut, kecuali...
+A. Keamanan sistem terletak pada kerahasiaan kunci dan bukan pada kerahasiaan algoritma yang digunakan
+B. Kriptosistem yang baik mampu menahan seluruh serangan yang telah dikenal sebelumnya.
+C. Kriptosistem yang baik akan menghasilkan ciphertext yang terlihat acak dalam seluruh tes statistik yang dilakukan terhadapnya.
+D. Kriptosistem yang baik memiliki kunci yang kecil
+ANSWER: D
+
+Teori bilangan yang banyak diimplementasikan pada metode kriptografi diantaranya, kecuali...
+A. Greatest common algoritma
+B. Aritmatika modular
+C. Extended Eucildean Algorithm
+D. Metode Fast exponentiation
+ANSWER: A
+
+Yang merupakan teknik kriptografi klasik adalah...
+A. Transposition xapher
+B. Substitution poneglyph
+C. The caesar substitution cipher
+D. Substitution Caesar
+ANSWER: C
+
+Berikut konsep dasar web design adalah, kecuali...
+A. Navigasi
+B. Kompleks
+C. Grafik
+D. Penulisan
+ANSWER: B
+
+Apa kepanjangan dari CSS...
+A. Cascading Style Sheets
+B. Case Style Suit
+C. Cascading Sheets Style
+D. Case Suit Style
+ANSWER: A

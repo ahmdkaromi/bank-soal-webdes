@@ -1,0 +1,48 @@
+Apa yang dimaksud dengan Email?
+A. Surat elektronik pengganti surat biasa
+B. Surat burung dara pengganti pesan asap
+C. Surat amplop pengganti surat burung dara
+D. Surat burung hantu di film Harry Potter
+ANSWER: A
+
+Manakah sub domain dari website "https://www.youtube.com"?
+A. https
+B. youtube
+C. www
+D. .com
+ANSWER: C
+
+Manakah tag html yang bisa dimasukan "<title> </title>"?
+A. Body
+B. P
+C. Head
+D. Html
+ANSWER: C 
+
+Jenis CSS apa yang CSS-nya berada di dalam tag <style> dan lokasinya berada di tag <head>?
+A. Eksternal CSS
+B. Ekstrovert CSS
+C. Inline CSS
+D. Internal CSS
+ANSWER: D
+
+Di bawah ini, manakah yang bukan aplikasi yang sering digunakan untuk mengoding html?
+A. Notepad+++
+B. VSC
+C. Sublime
+D. Bluefish
+ANSWER: A
+
+Dalam membuat dan mendesain sebuah web, apa langkah utama yang harus dilakukan terlebih dahulu?
+A. Masuk ke Eldiru
+B. Login untuk mengakses youtube
+C. Membuat Konsep dasar
+D. Mencari orang untuk menjoki tugas
+ANSWER: C
+
+Kode heximal warna hitam pada css adalah ...
+A. #000000
+B. #FFFFFF
+C. #FFFF00
+D. #F5F5F5
+ANSWER: A

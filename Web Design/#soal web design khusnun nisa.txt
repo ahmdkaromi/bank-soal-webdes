@@ -1,0 +1,48 @@
+Yang dimaksud dengan internet adalah: 
+A. Kumpulan komputer yang saling terhubung dalam sebuah ruangan 
+B. Kumpulan komputer yang tidak terhubung dalam bentuk jaringan 
+C. Kumpulan komputer yang saling berhubungan dalam bentuk jaringan 
+D. Kumpulan komputer yang memiliki kecepatan proses yang sama
+ANSWER : C
+
+Berikut ini merupakan kegunaan dari Web Browser kecuali .... 
+A. Untuk melecak dan mengambil informasi 
+B. Untuk melakukan perdagangan/bisnis illegal
+C. Untuk download dan upload informasi 
+D. Untuk mengirimkan dan menerima surat elektronik (E-mail) 
+ANSWER : B
+
+Sebutkan perintah untuk melakukan break pada pembuatan situs HTML!
+A. HR
+B. LI
+C. BR
+D. UL
+ANSWER : C
+
+Berikut adalah Konsep Dasar Web Design , kecuali ...
+A. navigasi
+B. gambar
+C. grafik
+D. kesederhanaan
+ANSWER : B
+
+Berikut ini adalah Software untuk mendisain Halaman Web (Web Design Software), kecuali…..
+A. Google chrome
+B. Macromedia dreamweaver 
+C. Macromedia fireworks
+D. Microsoft Frontpage
+ANSWER : A
+
+Apa yang paling pertama dilakukan dalam pembuatan sebuah website?
+A. Membuat sketsa web site pada kertas
+B. Membuat html
+C. Mempublikasikan website
+D. Mengedit website
+ANSWER : A
+
+efek tampilan menarik ditambahkan ke dalam CCS versi CCS3 yaitu..
+A. efek bayangan
+B. responsive web design
+C. transisi dan animasi
+D. semua benar
+ANSWER : D

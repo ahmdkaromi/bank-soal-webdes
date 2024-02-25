@@ -1,0 +1,36 @@
+.gap {
+  padding-top: 6em;
+}
+
+.alert {
+  padding: 0.75em;
+  margin-bottom: 0.5em;
+}
+
+.card {
+  padding: 0.5em 1em;
+  margin-bottom: 0.5em;
+  background-color: #23272A;
+
+}
+
+h3{
+  color: #5663F7;
+}
+
+body{
+  background-color:  #2C2F33;
+}
+
+.alert{
+  color: black;
+}
+
+.alert-danger{
+  background-color: #f6f6f6;
+
+}
+
+.alert-success{
+  background-color:   #5663F7;
+}

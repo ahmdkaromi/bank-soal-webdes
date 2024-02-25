@@ -1,0 +1,55 @@
+Jaringan-jaringan komputer yang saling terkoneksi seluruh dunia disebut:
+A. Intranet
+B. Extranet
+C. Internet
+D. Mobiusnet
+E. WAN
+ANSWER: C
+
+Telnet digunakan untuk
+A. Login ke suatu server komputer
+B. Untuk mendistribusikan berita
+C. Mengkases server gopher
+D. Mentransfer file dalam format text atau binary
+E. Untuk tempat penyimpanan data
+ANSWER: A
+
+Kelebihan-kelebihan dari html adalah sebagai berikut, kecuali
+A. Dapat disatukan dengan bahasa lain seperti css, js.
+B. Dapat memasukkan gambar, animasi, video, maupun link
+C. Bersifat open source
+D. Hanya dapat menghasilkan halaman web yang statis
+E. Bahasa yang umum digunakan oleh para pembuat web
+ANSWER: D
+
+Tag <a href=''> </a> digunakan untuk
+A. Membuat satu link aktif yang dapat diakses
+B. Memasukan gambar
+C. Membuat suatu paragraf
+D. Mengelompokkan tag menjadi sebuah grup
+E. Menentukan nama kelas dari suatu elemen
+ANSWER: A
+
+Desain web responsif diciptakan oleh Ethan Marcotte pada tahun
+A. 2006
+B. 2007
+C. 2008
+D. 2009
+E. 2010 
+ANSWER: E
+
+Berikut adalah cara-cara untuk membuat web, kecuali
+A. Membuat gambaran seperti apa tampilan web nantinya
+B. Membuat web asal jadi
+C. Mendiskusikan dengan teman proyek
+D. Menggunakan font yang enak dilihat
+E. Menggunakan warna yang sesuai dengan tema website
+ANSWER: B
+
+Berikut merupakan satuan-satuan ukuran dalam width, height, dan lainnya, kecuali
+A. pt
+B. px
+C. rem
+D. m
+E. %
+ANSWER: D

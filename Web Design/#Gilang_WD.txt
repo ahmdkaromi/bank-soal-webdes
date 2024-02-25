@@ -1,0 +1,48 @@
+Versi terbaru dari HTML adalah . . .
+A. HTML 3
+B. HTML 4
+C. HTML 5
+D. HTML 6
+ANSWER:C
+
+Kepanjangan dari HTTP adalah . . .
+A. HyperText Transfer Protocol
+B. HypertText Transfer Prompt
+C. HyperTransfer Text Protocol
+D. HighTransfer Text Protocol
+ANSWER:A
+
+Apa fungsi CSS . . .
+A. Sebagai kerangka utama dari sebuah web
+B. Untuk memperindah halaman web
+C. Sebagai program utama dalam sebuah web
+D. Sebagai dasar dari pembuatan web
+ANSWER: B
+
+Dalam HTML, tag yang digunakan untuk membuat paragraf adalah . . .
+A. <p>
+B. <a>
+C. <br>
+D. <prgrf>
+ANSWER: A
+
+Apa bahasa pemrograman yang paling umum digunakan untuk membangun sebuah web . . .
+A. C
+B. Java
+C. Java Script
+D. Phyton
+ANSWER: C
+
+Kumpulan halaman yang menampilkan informasi baik gambar maupun audio atau gabungan dari semuannya yang dihubungkan melalui hyperlink disebut . . .
+A. Website
+B. Multimedia
+C. Videografi
+D. Artikel
+ANSWER: A
+
+Kepanjangan dari CSS adalah . . .
+A. Cascading Style Save
+B. Crusial Style Sheets
+C. Cascading Sheets Style
+D. Cascading Style Sheets
+ANSWER: D

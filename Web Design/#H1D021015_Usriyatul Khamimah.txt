@@ -1,0 +1,54 @@
+Apa kepanjangan dari HTML?
+A. Hyper Text Mark Up Language 
+B. Hyper Text Mark Language
+C. Hight Text Mark Up Language
+D. Hight Text Mark Language
+ANSWER: A
+
+Berikut ini adalah termasuk Software Browser, kecuali.... 
+A. Mozilla Firefox
+B. Opera
+C. Netscape Navigator
+D. Internet Explorer
+E. Macromedia Dreamweaver
+ANSWER: E
+
+Berikut ini adalah Bahasa Pemrograman Web, kecuali....
+A. PHP
+B. JavaScript
+C. CSS
+D. XML
+E. EXL
+ANSWER: E
+
+Software untuk menulis bahasa HTML yang paling sederhana adalah....
+A. Ms Word
+B. Ms Excel
+C. Ms Powerpoint
+D. Notepad
+E. Ms Acces
+ANSWER: D
+
+Yang dimaksud dengan halaman Web adalah....
+A. Halaman elektroni yang dibuka dengan email
+B. Halaman online bisa di download
+C. Halaman digital yang dibuka dengan web browser
+D. Halaman digital yang berisi berbagai jenis data dan gambar.
+E. Halaman digital online yang terhubung dengan internet
+ANSWER: C
+
+Untuk membuat sebuah website dibutuhkan bahasa pemrograman yang disebut dengan script.<br>Dan script yang paling mendasar dalam pembuatan web adalah....
+A. Link
+B. HTML
+C. Konten
+D. Jquery
+E. CSS
+ANSWER: B
+
+Banyak software dan platform web/blog yang bisa digunakan untuk membuat halaman web, diantaranya adalah, kecuali....
+A. Wordpress
+B. Blogger
+C. Dreamweaver
+D. Photoshop
+E. Joomla
+ANSWER: D

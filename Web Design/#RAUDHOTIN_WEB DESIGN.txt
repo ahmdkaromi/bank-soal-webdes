@@ -1,0 +1,48 @@
+Web Design adalah 
+A. Proses membuat suatu website, ini meliputi beberapa aspek yang berbeda, diantaranya : tata letak halaman website, konten, dan desain grafis.
+B. Proses membuat suatu website, ini meliputi beberapa aspek yang berbeda, diantaranya : tata letak pembayaran, konten, dan desain grafis.
+C. Proses membuat suatu website, ini meliputi beberapa aspek yang berbeda, diantaranya : tata letak halaman website, adsense, dan desain grafis.
+D. Proses membuat suatu website, ini meliputi beberapa aspek yang berbeda, diantaranya : tata letak halaman website, konten, dan desain fashion.
+ANSWER: A
+
+Kepanjangan URL adalah
+A. Uniform Resource Location
+B. Uniform Recontruction Locator
+C. Uniform Resource Locator
+D. Unity Resource Locator
+ANSWER : C
+
+Bahasa pemorgraman yang digunakan untuk membuat konten web design adalah
+A. C dan C++
+B. Phyton dan C
+C. Pascal
+D. HTML dan CSS
+ANSWER: D
+
+CSS diperkenalkan oleh W3C pada tahun
+A. 1967
+B. 1968
+C. 1965
+D. 1966
+ANSWER: D
+
+1. Menghasilkan halaman yang statis<br>2. Memiliki tag-tag yang begitu banyak sehingga susah dipelajari untuk yang masih awam<br>3. Mahal<br>4. Mudah error<br>5. Tidak konsisten karena data dari masing-masing perangkat dirender berbeda satu sama lain<br>Yang merupakan kekurangan HTML adalah
+A. 1 dan 2
+B. 1 dan 5
+C. 3 dan 4
+D. 2 dan 5
+ANSWER: A
+
+Situs untuk mengupload web secara gratis adalah
+A. Github
+B. Google
+C. Hostadvice
+D. Hostinger
+ANSWER: A
+
+Untuk mengatur ketebalan huruf di CSS menggunakan
+A. font-style
+B. font-weight
+C. font-variant
+D. font-size
+ANSWER: B

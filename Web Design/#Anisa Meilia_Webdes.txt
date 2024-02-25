@@ -1,0 +1,51 @@
+Pada tahun berapakah Web 3.0 masih dalam tahap pengembangan dan akan berkembang?
+A.2010-2020
+B.2008-2020
+C.2010-2022
+D.2008-2022
+ANSWER: A
+
+Mozilla firefox, Google Chrome, Safari, dan UC Browser.<br>Beberapa contoh disamping merupakan jenis aplikasi berbasis?
+A.Web Bussines
+B.Web Portofolio
+C.Web Social Network
+D.Web Browser
+ANSWER: D
+
+Apakah kepanjangan dari HTML?
+A.Hypertemp Markup Language
+B.Hypertext Markup Language
+C.Hypertemp Memory Language
+D.Hypertext Memory Language
+ANSWER: B
+
+Web desain mempunyai 7 konsep dasar yang dapat kita jadikan referensi menuju 'pengembangan web profesional'. <br>Manakah pernyataan berikut ini yang tidak termasuk 7 konsep dasar web desain?
+A.Navigasi,grafik dan kesederhanaan
+B.Penggunaan mudah,penulisan dan grafik
+C.Pengaksesan mudah,warna dan navigasi
+D.Kesederhanaan,Tata letak dan rumit
+ANSWER: D
+
+Tujuan dari pembuatan desain adalah memecahkan sebuah masalah.Untuk memecahkan masalah tentunya kita harus mengetahui dulu apa masalahnya. <br>Manakah salah satu pilihan dibawah ini yang tidak tepat dikatakan sebagai rangkaian metode dalam fase mengetahui masalah untuk membuat sebuah desain? 
+A.User research
+B.User problem
+C.Userflow
+D.User Persona
+ANSWER: B
+
+Manakah pilihan di bawah ini yang termasuk brainstroming?
+A.Style guide
+B.Wireframe
+C.Mockup
+D.Sitemap
+ANSWER: A
+
+Apakah bahasa yang digunakan untuk memperindah tampilan atau User Interface sebuah website?
+A.C
+B.CSS
+C.HTML
+D.JAVA
+ANSWER: B
+
+
+

@@ -1,0 +1,48 @@
+Arsitektur dari intranet berupa aplikasi web dan menggunakan protokol..
+A. TCP/IP
+B. Domain 
+C. Internet
+D. Private network
+ANSWER: A
+
+Di bawah ini yang tidak benar terkait unbreakable chiper adalah..
+A. Ada jika kunci benar-benar acak
+B. Merupakan klaim yang dibuat oleh kriptografer terhadap algoritma kriptografi yang dirancangnya
+C. Hanya ada breakable chiper di dunia 
+D. Panjang kunci harus sama dengan panjang plainteks
+ANSWER: C
+
+Kepanjangan dari HTML adalah..
+A. Hyperbole Markup Language
+B. Hypertext Markup Language 
+C. Hypermedia Markup Language
+D. Hypertext Transfer Language
+ANSWER: B
+
+Perhatikan pernyataan berikut ini.<br>I. Mengetahui kebutuhan fitur<br>II. Membuat gambaran besar user flow<br>III. Identifikasi target audiens<br>IV. Membuat sketsa<br>Yang termasuk langkah membuat user flow adalah..
+A. I, II, IV
+B. I, III, IV
+C. I, II, III
+D. II, III, IV
+ANSWER: A
+
+Berikut yang tidak termasuk proses UI UX Design adalah..
+A. Penemuan masalah
+B. Interview
+C. Brainstorming
+D. Testing
+ANSWER: B
+
+Tujuan dari usability testing adalah sebagai berikut, kecuali..
+A. Mencari permasalahan kegunaan
+B. Memperindah tampilan
+C. Mengumpulkan data kualitatif dan kuantitatif
+D. Menentukan kepuasan pengguna
+ANSWER: B
+
+Aturan untuk mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan webiste adalah...
+A. HTML
+B. CSS
+C. Javacript
+D. PHP
+ANSWER: B

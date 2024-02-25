@@ -1,0 +1,52 @@
+Untuk memisahkan baris pada web dapat digunakan tag ….
+a. <B> 
+b. <BR> 
+c. <U>
+d. <P>
+ANSWER: B
+
+Untuk menampilkan gambar dalam halaman web maka gambar tersebut harus berformat ….
+a. *.jpg 
+b. *.swf 
+c. *.pdf
+d. *.doc
+ANSWER: A
+
+Berikut ini adalah Bahasa Pemrograman Web, kecuali:
+a. PHP 
+b. Javascript 
+c. CSS
+d. EXL
+ANSWER: D
+
+Kepanjangan HTML adalah
+A. Hyper Text Manual Language
+B. Hypno Terminal Maximal List
+C. Hyper Text Mark-up Language
+D. Horizon Terminal Mark-up List
+E. Hyper Text Mark-up List
+ANSWER C
+
+Perintah HTML untuk menentukan tebal garis table adalah…
+a. Table border
+b. Align
+c. Colspan
+d. Rowspan
+e. Br
+ANSWER: A
+
+Apa perintah yang paling pertama dalam mengawali pembuatan HTML?
+a. <body>
+b. </body>
+c. </html>
+d. <tr>
+e. <html>
+ANSWER: E
+
+Dalam Pembutan HTML, Kita mengenal bahasa yang digunakan, kata <body> menunjukkan:
+a. Kepala dari HTML
+b. Kaki dari HTML
+c. Badan dari HTML
+d. Header and Footer dari HTML
+e. Table dari HTML
+ANSWER: c

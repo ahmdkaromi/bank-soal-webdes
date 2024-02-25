@@ -1,0 +1,48 @@
+Salah satu fungsi web design antara lain kecuali ….
+A. Fungsi Komunikasi 
+B. Fungsi Informasi
+C. Fungsi Komersil
+E. Fungsi Entertainment
+ANSWER: C
+
+Suatu perangkat lunak atau software yang digunakan untuk mencari informasi atau mengakses situs-situs yang ada di internet merupakan pengertian dari….
+A. Web Browser
+B. World Wide Web
+C. Search Engine
+D. URL
+ANSWER: A
+
+Serangan secara Online yang terjadi ketika seseorang menyamar sebagai sumber terpercaya atau resmi itu biasa disebut….
+A. Phising
+B. Spoofing
+C. Man In The Middle / MITM
+D. Brute Force
+ANSWER: B
+
+Elemen yang digunakan untuk menentukan info kepada browser mengenai versi html yang digunakan adalah….
+A. <line>
+B. <head>
+C. <body>
+D. <DOCTYPE>
+ANSWER: D
+
+Adalah kumpulan halaman - halaman yang digunakan untuk menampilkan informasi teks, gambar diam atau gerak, animasi, suara, dan atau gabungan dari semuanya itu baik yang bersifat statis maupun dinamis yang membentuk satu rangkaian bangunan yang saling terkait
+A. Webcam 
+B. Webservice
+C. Website
+D. World Wide Web
+ANSWER: C
+
+Apa yang paling pertama dilakukan dalam pembuatan sebuah website?
+A. Membuat html
+B. Mendesign WEB
+C. Mempublikasikan website
+D. Mengedit website
+ANSWER: B
+
+Bahasa yang digunakan untuk mengkostumisasi sebuah dokumen HTML adalah...
+A. CS
+B. CSS
+C. HTTPS
+D. C++
+ANSWER: B

@@ -1,0 +1,48 @@
+Internet memberikan manfaat yang banyak untuk kehidupan kita, tapi internet juga dapat memberikan dampak negatif bagi kehidupan kita.<br>Dibawah ini manakah yang termasuk dari dampak negatif internet?
+A. Memudahkan berkomunikasi
+B. Memudahkan memperoleh informasi
+C. Membuat kecanduan
+D. Mempromosikan bisnis dengan mudah
+ANSWER: C
+
+Web server memiliki dua pengertian berbeda yaitu sebagai bagian dari perangkat keras maupun bagian dari perangkat lunak.<br>Apa fungsi web server sebagi bagian dari perangkat lunak?
+A. Pusat kontrol untuk memproses permintaan yang diterima dari browser
+B. Menyimpan semua data
+C. Pusat kontrol untuk mengabaikan permintaan dari browser
+D. Menghapus semua data
+ANSWER: A
+
+Hypertext Markup Language atau biasa disingkat sebagai HTML merupakan protokol yang digunakan untuk? 
+A. Mencuci data atau dokumen dari web server ke browser
+B. Membuang data atau dokumen dari web server ke browser
+C. Menghapus data atau dokumen dari web server ke browser
+D. Mentransfer data atau dokumen dari web server ke browser
+ANSWER: D
+
+Konsep dasar dari web design ada 7.<br>Berikut ini manakah yang bukan konsep dasar dari web design?
+A. Navigasi
+B. Kerumitan
+C. Pengaksesan yang mudah
+D. Penggunaan yang mudah
+ANSWER: B
+
+Dalam proses UI UX Design ada 4 tahap yang harus dilakukan salah satunya penemuan masalah.<br>Manakah dibawah ini yang termasuk proses penemuan masalah?
+A. Testing
+B. Design
+C. Brainstorming
+D. User Research
+ANSWER: D
+
+Dalam mendesain web diperlukan sebuah strategi.<br>Manakah dibawah ini yang tidak termasuk dari strategi untuk mendesain sebuah web?
+A. Tidak menetapkan tujuan sebuah web
+B. Identifikasi target audience yang melihat
+C. Tool analysis target
+D. Tujuan akhir desain
+ANSWER: A
+
+HTML dan CSS tidak dapat dipisahkan karena CSS digunakan untuk mengatur tampilan dari sebuah website.<br>Apa keuntungan dari penggunaan CSS?
+A. Memuat halaman lebih lambat
+B. Perawatan sulit
+C. Menghemat waktu
+D. Tidak kompatibilitas terhadap beberapa perangkat
+ANSWER: C

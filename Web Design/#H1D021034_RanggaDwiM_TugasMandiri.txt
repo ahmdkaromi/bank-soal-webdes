@@ -1,0 +1,48 @@
+Suatu sistem komputer yang di dalamnya mampu menyediakan sumber daya sebagai pusat penyimpanan data dan juga layanan tertentu adalah pengertian dari …
+A. Client
+B. URL
+C. Server
+D. Protocol Internet
+ANSWER: C
+
+Kepanjangan dari HTML adalah … 
+A. Hypertext Markup Language
+B. Hypertest Makeup Language
+C. Hypertext Make Language
+D. Hypertest Markup Language
+ANSWER: A
+
+Suatu bahasa yang menggunakan tanda-tanda tertentu (tag) untuk menyatakan kode-kode yang harus ditafsirkan oleh browser agar halaman tersebut dapat ditampilkan secara benar adalah pengertian dari …
+A. FTTP
+B. HTTP
+C. HTML
+D. FTP
+ANSWER: C
+
+Berikut ini fungsi situs website, kecuali …
+A. Fungsi Komunikasi
+B. Fungsi Kalibrasi
+C. Fungsi Entertainment
+D. Fungsi Informasi
+ANSWER: B
+
+Berikut ini konsep dasar web design yang dapat jadikan referensi menuju “pengembang web profesional”, kecuali … 
+A. Navigasi
+B. Penggunaan yang mudah
+C. Penggunaan yang susah
+D. Pengaksesan yang mudah
+ANSWER: C
+
+Suatu bagian dari domain yang digunakan sebagai pembagian area dari sebuah situs atau website disebut dengan …
+A. Top level domain
+B. Second level domain
+C. Country level domain
+D. Sub domain
+ANSWER: D
+
+CSS merupakan singkatan dari … 
+A. Cascading Style Sheets
+B. Casanova Style Sheets
+C. Cascading Style Set
+D. Cascading Super Sheets
+ANSWER: A

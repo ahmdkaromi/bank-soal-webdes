@@ -1,0 +1,48 @@
+Aspek-aspek yang perlu diperhatikan dalam mendesain sebuah web adalah
+A. Layout
+B. Color
+C. Koreography
+D. Typography
+ANSWER: C
+
+Keunggulan Web 3.0 dibandingkan generasi sebelumnya adalah
+A. Read and view only
+B. Crypto wallet
+C. Login with ID
+D. Two ways platform
+ANSWER: B
+
+Cryptosystem yang baik harus memiliki karakteristik ..
+A. Keamanan sistem terletak pada kerahasiaan kunci dan bukan pada kerahasiaan algoritma yang digunakan.
+B. Kriptosistem yang baik memiliki ruang kunci (keyspace) yang besar.
+C. Kriptosistem yang baik akan menghasilkan ciphertext yang terlihat urut dalam seluruh tes statistik yang dilakukan terhadapnya.
+D. Kriptosistem yang baik tidak mampu menahan seluruh serangan yang telah dikenal sebelumnya.
+ANSWER: A
+
+Tag dalam html untuk menganti baris yaitu ...
+A. <p>
+B. <br>
+C. <h>
+D. <href>
+ANSWER: B
+
+Upaya minimum yang diperlukan untuk memecahkan sistem kriptografi, perlu dipertimbangkan hal-hal berikut, kecuali ...
+A. Kemampuan pemrosesan kriptanalis
+B. Kemampuan kriptanalis untuk menemukan kelemahan, yaitu kesalahan dalam desain yang memungkinkan pengelakan keamanan algoritme
+C. Jumlah kemungkinan kombinasi kunci
+D. Kemudahan kombinasi kunci
+ANSWER: D
+
+Konsep dasar web design berikut ini bisa dijadikan referensi menuju “pengembang web profesional” adalah
+A. Penggunaan banyak grafik dalam web
+B. Penggunaan kata yang efektif
+C. Iklan yang berlimpah
+D. Penggunaan navigasi yang kompleks
+ANSWER: B
+
+Untuk memperindah tampilan web, dapat menggunakan ...
+A. CSS
+B. php
+C. JavaScript
+D. Kotlin
+ANSWER: A

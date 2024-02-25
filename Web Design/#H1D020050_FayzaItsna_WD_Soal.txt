@@ -1,0 +1,50 @@
+ekstensi untuk file html yang benar adalah ...
+a. .xml
+b. .html
+c. .wml
+d. .hml
+jawab: b
+
+atribut table untuk mengatur tinggi table ...
+a. width
+b. height
+c. border
+d. cellpadding
+jawab: b
+
+css untuk mengubah warna latar dari dokumen adalah ...
+a. color
+b. filter
+c. background-color
+d. effect
+jawab: c
+
+pemanggilan style CSS pada file CSS yang kita inginkan dengan menggunakan perintah “Link rel” yang berfungsi untuk menghubungkan kedalam sebuah style CSS
+adalah ....
+a. external style
+b. inline style
+c. internal style
+d. import style
+jawab: a
+
+ciri awalan tag untuk ID pada css adalah ...
+a. $
+b. .
+c. #
+d. *
+jawab: c
+
+pseudo classes :hover berarti ...
+a. untuk tampilan sebuah link yang belum dikunjungi.
+b. untuk tampilan sebuah link ke halaman yang telah dkunjungi.
+c. untuk tampilan sebuah link yang sedang aktif (ketika di klik).
+d. untuk tampilan sebuah link yang melintas diatasnya.
+jawab: d
+
+cara pengelompokkan atau grouping selector ID / class dengan nilai properti sama ...
+a. p, b, i{ color: red;}
+b. p. b. i{ color: red;}
+c. p/b/i{ color: red;}
+d. p-b-i{ color: red;}
+jawab: a
+

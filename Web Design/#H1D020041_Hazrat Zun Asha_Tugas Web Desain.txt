@@ -1,0 +1,48 @@
+www adalah singkatan dari ... 
+A. Wide World Web
+B. World Wide Web
+C. World Web Wide
+D. Web Wide World
+ANSWER: B
+
+Pengidentifikasi unik yang digunakan untuk menemukan sumber daya di Internet disebut dengan ...
+A. Host
+B. Server
+C. URL
+D. Client
+ANSWER: C 
+
+Berikut ini perintah untuk mengganti baris pada HTML adalah...
+A. br
+B. tr
+C. td
+D. p
+ANSWER: A
+
+Berikut adalah aplikasi yang dapat digunakan untuk membuat desain sebuah web, kecuali ...
+A. Figma
+B. Adobe Illustrator
+C. Coreldraw
+D. MsWord
+ANSWER: D
+
+Bahasa khusus yang berfungsi untuk mempercantik atau memperindah tampilan web adalah...
+A. Laravel
+B. CSS
+C. XML
+D. Javascript
+ANSWER: B
+
+Pada saat membuat halaman homepage, sebaiknya menggunakan nama...
+A. homepage.html
+B. index.html
+C. google.id
+E. index.com
+ANSWER: B
+
+Method dibagi menjadi dua, yaitu...
+A. Get dan Post
+A. Get dan action
+B. Submit dan aksi
+C. Method dan get
+ANSWER: A

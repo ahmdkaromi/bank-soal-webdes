@@ -1,0 +1,49 @@
+HyperText Markup Languange diciptakan oleh sarjana fisika pada rise Nuklir Swiss (CERN) yang bernama?
+A. Sergrey Brin
+B. Bill Gates
+C. Albert Einstein
+D. Tim Berners-Lee
+ANSWER: D
+
+Di bawah ini yang termasuk aplikasi browser untuk menjelajahi internet adalah?
+A. Microsoft Point
+B. Microsoft Edge
+C. Libre Office
+D. Notepad
+ANSWER: B
+
+Salah satu tag dari html yang berfungsi untuk mengatur jenis huruf yang akan ditampilkan pada halaman website adalah?
+A. <head>
+B. <div>
+C. <font>
+D. <i>
+ANSWER: C
+
+Ketika kita ingin membuat suatu tabel maka tag html yang tepat digunakan adalah?
+A. <table>
+B. <style>
+C. <script>
+D. <html>
+ANSWER: A
+
+Pada html, kita dapat memberi warna dan berbagai hal yang menarik lainnya dengan bantuan?
+A. XML
+B. FTP
+C. HTTP
+D. CSS
+ANSWER: D
+
+Ada banyak sekali aspek yang berpengaruh dalam membuat design web yang bagus, berikut ini hal-hal yang termasuk dalam aspek tersebut adalah?
+A. Mudah dipahami tetapi kurang menarik bagi user
+B. Menarik tetapi user sulit berinteraksi dengan website
+C. Penampilan dan nuansa dalam website yang seragam
+D. Tidak memikirkan sudut pandang user yang nanti menjadi pengunjung website
+ANSWER: C
+
+Kriptografi Klasik memberikan perspektif historis tentang kriptografi dan pemecah kode, termasuk beberapa teknik yang digunakan selama berabad-abad untuk mencoba menyandikan informasi.<br>Berikut ini yang bukan merupakan salah satu teknik dari kriptografi klasik adalah?
+A. The Caesar substitution cipher
+B. Triple DES
+C. Polyalphabetic substitution (the Vigenere cipher)
+D. Transposition ciphers 
+ANSWER: D
+

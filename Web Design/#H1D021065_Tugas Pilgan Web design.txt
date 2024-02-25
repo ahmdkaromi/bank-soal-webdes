@@ -1,0 +1,48 @@
+Dalam membuat website diperlukanlah file HTML agar bisa berjalan.<br>Dimana HTML adalah
+A. Hyper Text Manual Language
+B. Hypno Terminal Maximal List
+C. Hyper Text Mark-up Language
+D. Horizon Terminal Mark-up List
+ANSWER: C
+
+Apa perintah yang harus ada di awal dalam pembuatan HTML?
+A. <body>
+B. <html>
+C. <a href>
+D. </html>
+ANSWER: B
+
+Web Browser adalah perangkat lunak yang digunakan untuk menampilkan(rendering) dokumen web/HTML.<br>Contohnya adalah, kecuali
+A. Internet Exproler
+B. Itunes
+C. Opera
+D. Google Chrome
+ANSWER: B
+
+CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML.<br>CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.<br>Berikut ini bentuk perintah CSS dalam HTML untuk membuat text menjadi berwarna adalah
+A. <font color=”color”>
+B. <bgcolor = “color”>
+C. <img src =”.url”>
+D. <p align =”center”>
+ANSWER: A
+
+Fungsi dari <title> dalam HTML adalah
+A. Menunjukkan save file html kamu
+B. Menunjukan waktu kamu membuat html
+C. Melihat apa yang sedang kamu lakukan
+D. Menunjukan judul html kamu
+ANSWER: D
+
+Dalam pembuatan Website sudah tidak asing lagi dengan istilah Web Hosting.<br>Perusahaan Web Hosting ialah penyedia/provider yang menyewakan tempat/space dengan kapasitas tertentu dan jangka waktu tertentu agar website anda bisa diakses secara online.<br>Tentu saja kebanyakan merupakan layanan yang berbayar, akan tetapi terdapat banyak juga penyedia hosting gratis seperti, kecuali
+A. Github
+B. Google Blogspot
+C. Domenesia
+D. Wix
+ANSWER: C
+
+Dalam pembuatan HTML software yang biasa digunakan adalah
+A. Microsoft Excel
+B. Photoshop
+C. Spotify
+D. Notepad
+ANSWER: D

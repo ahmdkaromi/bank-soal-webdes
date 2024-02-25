@@ -1,0 +1,48 @@
+Email adalah...
+A. Surat tradisional yang terbuat dari kertas dan dikirim melalui pos
+B. Surat elektronik berupa file yang dibuka melalui komputer
+C. Surat modern berupa file yang dikirim secara manual
+D. Surat elektronik berupa file yang terbuka secara otomatis
+ANSWER: B
+
+Yang bukan termasuk protokol transfer adalah...
+A. HTTP
+B. URL
+C. FTP
+D. Telnet
+ANSWER: B
+
+HTML terbagi menjadi 2 bagian, yaitu...
+A. Head dan body
+B. Head dan ear
+C. Body dan foot
+D. Head dan foot
+ANSWER: A
+
+Yang bukan merupakan 7 konsep dasar web design adalah...
+A. Rangkuman
+B. Navigasi
+C. Kesederhanaan
+D. Penggunaan yang mudah
+ANSWER: A
+
+Pada Design HTML terbagi menjadi 4 bagian.<br>Yang bukan termasuk bagian pada design adalah...
+A. Sitemap
+B. Wireframe
+C. Domain
+D. Mockup
+ANSWER: C
+
+Tujuan dari sebuah design adalah untuk memecahkan...
+A. Utang
+B. Masalah
+C. Rumus
+D. Strategi
+ANSWER: B
+
+Untuk melakukan styling pada HTML maka kita menggunakan...
+A. HTML
+B. C++
+C. Python
+D. CSS
+ANSWER: D

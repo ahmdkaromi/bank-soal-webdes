@@ -1,0 +1,48 @@
+Program yang digunakan untuk menjelajah, mengambil, dan menyajikan berbagai sumber yang ada di suatu web yang dapat dicari di internet adalah....
+A. Browser
+B. Web Browser
+C. Server Client
+D. Web server
+ANSWER: B
+
+Sebuah perangkat lunak yang memiliki fungsi sebagai pusat kontrol untuk memproses permintaan yang diterima dari browser adalah....
+A. Browser
+B. Web Browser 
+C. Server Client
+D. Web Server
+ANSWER: D
+
+Tag yang menghubungkan antara suatu dokumen dengan dokumen lainnya dalam website yang dibuat disebut....
+A. URL
+B. Link
+C. Index
+D. Browser
+ANSWER: B
+
+Berikut yang bukan termasuk 7 konsep dasar web design adalah....
+A. Navigasi
+B. Kebutaan warna
+C. Kesederhanaan
+D. Kelengkapan
+ANSWER: D
+
+Apa yang paling pertama dilakukan dalam pembuatan sebuah website?
+A. Membuat html
+B. Membuat sketsa web site pada kertas.
+C. Mempublikasikan website
+D. Mengedit website
+ANSWER: B
+
+Strategi desain web dalam perancanaan web sangatlah dibutuhkan. Berikut yang bukan termasuk strategi desain web yang baik adalah....
+A. Menggunakan warna muda untuk latar dan warna tua untuk teks
+B. Meletakkan main post di sebelah kiri sedangkan sidebar di sebelah kanan, karena sebagian besar orang terbiasa membaca dari kiri ke kanan
+C. Menggunakan watermark dengan ukuran besar pada gambar yang diunggah pada web
+D. Membuat susunan informasi yang mudah diikuti oleh mata pembaca
+ANSWER: C
+
+Berikut ini adalah Bahasa Pemrograman Web, kecuali....
+A. EXL 
+B. Javascript 
+C. CSS
+D. XML
+ANSWER: A

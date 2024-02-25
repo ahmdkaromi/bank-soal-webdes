@@ -1,0 +1,48 @@
+Internet pada awalnya disebut dengan:
+A.Network
+B.Intranet
+C.ARPAnet
+D.Computer network
+ANSWER:C
+
+Protokol yang menentukan aturan yang perlu diikuti oleh web browser dalam meminta dan mengambil suatu dokumen oleh web server dalam menyediakan dokumen yang diminta web browser adalah pengertian dari?
+A.HTTP
+B.TCP/IP
+C.URL
+D.FTP
+ANSWER:A
+
+Tag HTML yang memiliki peran penting untuk menampilkan bagian halaman web adalah
+A.Tab
+B.Table
+C.Heading
+D.Body
+ANSWER:C
+
+Dibawah ini tools apa saja yang umumnya digunakan oleh UI/UX Designer,kecuali
+A.Adobe XD
+B.Trello
+C.Figma
+D.Front-end Developer
+ANSWER:D
+
+Sebuah karakter visi yang dibuat untuk menggambarkan siapa usernya adalah pengertian dari user?
+A.User Flow
+B.User Persona
+C.Style Guide
+D.Sitemap
+ANSWER:B
+
+Dibawah ini yang merupakan salah satu interface design yang benar adalah
+A.Maintenance
+B.Site Definition and Planning
+C.Bandwidth and Interaction
+D.Information Architecture
+ANSWER:C
+
+Untuk memasukkan perintah masukkan gambar yang dapat diklik dan fungsinya hampir sama dengan submit adalah
+A.Submit
+B.Image
+C.File
+D.Reset
+ANSWER:B

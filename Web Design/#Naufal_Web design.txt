@@ -1,0 +1,48 @@
+Situs web dapat dijadikan transaksi bisnis baik barang jasa,dll.<br>Merupakan pengertian fungsi situs web yaitu
+A.Fungsi Transaksi
+B.Fungsi Informasi
+C.Fungsi Entertainment
+D.Fungsi Komunikasi
+ANSWER:A
+
+Apa kepanjangan dari HTTP?
+A.Hypertext Transfer Protocol Secure
+B.Hypertext Transfer Protocol
+C.Hypertext Markup Language
+D.Hypertext Markup Protocol
+ANSWER:B
+
+Apa kepanjangan dari HTML?
+A.Hypertext Transfer Protocol Secure
+B.Hypertext Transfer Protocol
+C.Hypertext Markup Protocol
+D.Hypertext Markup Language
+ANSWER:D
+
+Sebutkan kelebihan dari HTML,diantaranya
+A.Menghasilkan halaman yang statis
+B.Memiliki tag-tag yang begitu banyak sehingga susah dipelajari untuk yang masih awam
+C.Merupakan bahasa penkodean yang dapat digunakan pada berbagai jenis mesin komputer
+D.Merupakan bahasa pemrograman yang memerlukan kompiler
+ANSWER:C
+
+Kumpulan halaman - halaman yang digunakan untuk menampilkan informasi teks, gambar diam atau gerak, animasi, suara, dan atau gabungan dari semuanya itu baik yang bersifat statis maupun dinamis yang membentuk satu rangkaian bangunan yang saling terkait disebut
+A. World Wide WEB
+B. Website
+C. Webservice
+D. Webcam
+ANSWER:B
+
+Apa yang paling pertama dilakukan dalam pembuatan sebuah website?
+A. Mendesign Web
+B. Mempublikasikan website 
+C. Mengedit website
+D. Membuat html
+ANSWER:A
+
+Fungsi dari css adalah
+A.Membuat halaman web,menampilkan berbagai informasi di dalam sebuah browser Internet
+B.Menentukan layout, style, serta keselarasan halaman website
+C.Menyempurnakan tampilan dan sistem halaman web
+D.Untuk menampilkan sebuah dokumen
+ANSWER:B

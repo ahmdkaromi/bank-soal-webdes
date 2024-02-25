@@ -1,0 +1,48 @@
+Kepanjangan dari HTTP adalah...
+A. HyperText Transfer Protokol
+B. HyperLink Transfer Protokol
+C. HyperTransfer Text Protokol
+D. HyperTrick Text Protokol
+ANSWER : A
+
+Bahasa pemrograman web yang paling dasar dalam pembuatan website adalah..
+A. HTTP
+B. Javascript
+C. C++
+D. HTML & CSS
+ANSWER : D
+
+'<!DOCTYPE>', Fungsi dari Tag tersebut adalah...
+A. Tag untuk membuat judul dari sebuah halaman
+B. Tag untuk membuat paragraf
+C. Tag untuk menentukan tipe dokumen
+D. Tag untuk membuat tubuh dari sebuah halaman
+ANSWER : C
+
+'<table>', Fungsi dari Tag tersebut adalah...
+A. Tag untuk membuat judul dari sebuah halaman
+B. Tag untuk membuat paragraf
+C. Tag untuk menentukan tipe dokumen
+D. Tag untuk membuat tabel
+ANSWER : D
+
+Kesalahan terbesar pada desain web adalah...
+A. Membangun sebuah website hanya untuk desainernya saja, tidak untuk penggunanya
+B. Website yang dibuat akan "Sempurna"
+C. Website menarik perhatian dari pengguna
+D. website mudah dipahami dan mudah digunakan
+ANSWER : A
+
+Komponen penting dalam mendesain halaman web, kecuali..
+A. Konten
+B. Komponen Website
+C. Copyright/hak cipta
+D. User
+ANSWER : D
+
+Siapa target akhir dari pembuatan web?
+A. Pengguna
+B. Web designer
+C. Analis
+D. Client
+ANSWER : A

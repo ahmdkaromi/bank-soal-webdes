@@ -1,0 +1,48 @@
+Jaringan pada awal penemuan internet dinamakan
+A. ARPANET
+B. Intranet
+C. ETHERNET
+D. Internet
+ANSWER: A
+
+Pada sisi software, fungsi web server adalah
+A. Menyimpan semua data seperti HTML dokumen, gambar, file CSS stylesheets, dan file JavaScript
+B. Sebagai pusat kontrol untuk memproses permintaan yang diterima dari browser
+C. Menawarkan suatu layanan tertentu kepada komputer atau jaringan lain
+D. Memperbaiki sistem web browser
+ANSWER: B
+
+Tag apa yang digunakan pada HTML untuk membuat list tanpa nomor
+A. <li></li>
+B. <ol><li></li></ol>
+C. <ul><li></li></ul>
+D. <ul></ul>
+ANSWER: C
+
+Berikut merupakan salah satu dari tujuh konsep dasar web design, kecuali
+A. Navigasi
+B. Sederhana
+C. Tepat sasaran
+D. Penulisan
+ANSWER: C
+
+Elemen-elemen penting dalam web design, kecuali
+A. Jenis huruf
+B. Warna
+C. Layout
+D. Isi tulisan
+ANSWER: D
+
+Wireframe adalah
+A. Sketsa sederhana yang berfungsi untuk penataan layout
+B. Layout yang sudah diberi warna
+C. Daftar semua halaman penting dari sebuah website
+D. Tidak ada jawaban yang benar
+ANSWER: A
+
+Untuk memberi style pada suatu tag HTML, digunakan
+A. Selector
+B. Property
+C. Tag
+D. Sintak
+ANSWER: A

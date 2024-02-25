@@ -1,0 +1,48 @@
+Situs web dapat digunakan sebagai sarana hiburan atau penggunaan animasi gambar dan element bergerak yang dapat meningkatkan mutu presentasi design.<br>Hal tersebut merupakan fungsi situs web yaitu?
+A. Fungsi Komunikasi
+B. Fungsi Informasi
+C. Fungsi Entertainment
+D. Fungsi Transaksi
+ANSWER: C
+
+HTML merupakan singkatan dari?
+A. Hypertext Message Language
+B. Hypertext Markup Language
+C. Hypertext Memo Language
+D. Hypertext Modification Language
+ANSWER: B
+
+Kode markup <html> merupakan salah satu komponen penyusun dokumen HTML yang digunakan untuk?
+A. Menandakan kapan dan dimana dokumen html dimulai
+B. Memperjelas jenis dokumen yang sedang ditampilkan oleh browser
+C. Menyiapkan berbagai informasi terkait halaman web
+D. Berisi konten yang akan dilihat user
+ANSWER: A
+
+Berikut yang tidak termasuk keuntungan menggunakan CSS yaitu?
+A. Mempercepat proses desain
+B. Proses pemeliharaan sulit dan lama
+C. Halaman lebih cepat dimuat
+D. Menjadi standar pengembangan website
+ANSWER: B
+
+Pada CSS, selector ditulis di bagian kiri sebelum tanda kurung kurawal pertama.<br>Dalam tanda kurung kurawal berisi informasi yang merupakan sebuah deklarasi yang didalamnya mengandung properti.<br>Berikut yang tidak termasuk dalam properti yaitu?
+A. Ukuran font
+B. Warna
+C. Format
+D. Bold
+ANSWER: D
+
+Sistem informasi terdistribusi berbasis internet merupakan pengertian dari?
+A. Internet
+B. Clients
+C. Web
+D. Browser
+ANSWER: C
+
+Berikut yang tidak termasuk konsep dasar web design yaitu?
+A. Penggunaan kalimat
+B. Kesederhanaan
+C. Mudah digunakan
+D. Pengaksesan yang mudah
+ANSWER: A

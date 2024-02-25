@@ -1,0 +1,48 @@
+Berikut yang bukan fungsi web adalah?
+A. fungsi komunikasi
+B. fungsi informasi
+C. fungsi entertainment
+D. fungsi ideologi
+ANSWER : D
+
+web dengan kemampuan membaca situs semudah manusia membacanya sehingga informasi dapat disajikan dengan cepat dan tepat, adalah pengertian dari?
+A. semantic web
+B. world web
+C. computer web
+D. tool web
+ANSWER : A
+
+fungsi web server merujuk pada hardware adalah?
+A. pusat kontrol untuk memproses permintaan yang diterima dari browser
+B. menjalankan layanan web
+C. menyimpan semua data seperti HTML dokumen, gambar, dll.
+D. penerima permintaan yang dikirimkan melalui browser kemudian memberikan tanggapan permintaan dalam bentuk halaman situs web
+ANSWER : C
+
+HTML adalah singkatan dari?
+A. Hyperteam Markup Language
+B. Hypertext Markup Language 
+C. Hypertool Markup Language 
+D. Hyperteam Markup Language 
+ANSWER : B
+
+berikut yang bukan merupakan konsep dasar web design adalah?
+A. navigasi
+B. kekompleksan
+C. grafik 
+D. buta warna 
+ANSWER : B
+
+HTML adalah singkatan dari?
+A. Hyperlink Markup Language
+B. Hypertext Markup Language 
+C. Hyperlink Making Language 
+D. Hypertext Making Language 
+ANSWER : B
+
+Berikut ini tag untuk membuat heading, kecuali
+A. <h4>
+B. <h5>
+C. <h6>
+D. <h7>
+ANSWER : D

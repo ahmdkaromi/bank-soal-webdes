@@ -1,0 +1,48 @@
+Sebuah jaringan internal perusahaan yang dibangun menggunakan teknologi internet disebut..
+A. Intranet
+B. Internet 
+C. Extranet
+D. Warnet 
+ANSWER: A
+
+Enigma menggunakan .. buah rotor untuk melakukan substitusi
+A. 1
+B. 2
+C. 3
+D. 4
+ANSWER: D
+
+Suatu   bahasa   pemrogram   yang   digunakan   untuk   menbuat   desain   web   dan kepanjangan dari Hypertext Markup Language adalah ..... 
+A. Hypertext 
+B. HTML 
+C. CSS 
+D. Hypermedia
+ANSWER: B
+
+Di bawah ini yang bukan metode yang dilakukan oleh UX Researcher adalah..
+A. Observasi
+B. Usability Test
+C. Membuat flowchart dan wireframe
+D. User interviews
+ANSWER: C
+
+Tujuan dari sebuah desain adalah..
+A. Memecahkan sebuah masalah
+B. Memperpanjang sebuah masalah
+C. Mendebatkan sebuah masalah
+D. Melihat sebuah masalah
+ANSWER: A
+
+Berikut ini yang bukan aktivitas dalam menyusun user interface adalah..
+A. Visual design
+B. Graphics
+C. Interface design
+D. Usability plan
+ANSWER: D
+
+Deklarasi pada CSS dituliskan dengan :
+A.  ‘...’
+B.  “...”
+C.  (...)
+D.  ^...^
+ANSWER: B

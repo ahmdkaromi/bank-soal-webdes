@@ -1,0 +1,48 @@
+HTTP merupakan singkatan dari...
+A. Hypertext Transfer Protocol
+B. World Wide Web Consortium
+C. HyperText Mark up Language
+D. World Wide Web
+ANSWER : A
+
+Yang bukan merupakan contoh web browser adalah...
+A. Mozilla firefox
+B. Google Chrome
+C. Safari
+D. Facebook
+ANSWER : D
+
+Yang berfungsi untuk memberikan info kepada browser mengenai versi html yang digunakan adalah...
+A. CSS
+B. DOCTYPE
+C. HEAD
+D. BODY
+ANSWER : B
+
+Yang bukan termasuk ke dalam 7 konsep dasar web design adalah...
+A. Navigasi
+B. Kesederhanaan
+C. Grafik
+D. Suhu
+ANSWER : D
+
+Software yang dapat digunakan untuk membuat racangan desain UI/UX adalah...
+A. Javascript
+B. PHP
+C. Figma
+D. C++
+ANSWER : C
+
+Salah satu platform yang dapat digunakan untuk membuat website secara instan...
+A. Ralali
+B. Sociolla
+C. Wix
+D. Hosting
+ANSWER : C
+
+CSS berfungsi untuk...
+A. Pemeliharaan sistem
+B. Membuat dasabase
+C. Mengatur tampilan website
+D. Melakukan operasi penjumlahan
+ANSWER : C

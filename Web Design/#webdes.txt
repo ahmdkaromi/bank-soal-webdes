@@ -1,0 +1,55 @@
+Secara umum fungsi situs web adalah sebagai berikut, kecuali
+A. Fungsi identitas
+B. Fungsi transaksi
+C. Fungsi entertainment
+D. Fungsi komunikasi
+ANSWER: A
+
+Teknologi web yang masih dalam tahap pengembangan dan akan berkembang pada tahun 2010-2020 adalah
+A. Web 4.0
+B. Web 3.0
+C. Web 2.0
+D. Web 1.0
+ANSWER: B
+
+Sebuah algoritma kriptografi dikatakan aman (computationally secure) apabila ia memenuhi tiga kriteria berikut, kecuali
+A. Persamaan matematis yang menggambarkan operasi algoritma kriptografi sangat kompleks sehingga algoritma tidak mungkin dipecahkan secara analitik.
+B. Biaya untuk memecahkan ciphertext melampaui nilai informasi yang terkandung di dalam ciphertext tersebut.
+C. Keamanan sistem terletak pada kerahasiaan algoritma yang digunakan, bukan pada kerahasiaan kunci
+D. Waktu yang diperlukan untuk memecahkan ciphertext melampaui lamanya waktu informasi tersebut harus dijaga kerahasiaannya.
+ANSWER: C
+
+Jika merujuk pada pada software, web server digunakan untuk 
+A. Menyimpan gambar 
+B. Menyimpan file CSS stylesheets dan file JavaScript 
+C. Menyimpan dokumen HTML
+D. Pusat kontrol untuk memproses permintaan yang diterima dari browser
+ANSWER: D
+
+Kepanjangan dari HTML adalah 
+A. Hypertext Markup Language
+B. Hyperlink Markup Language
+C. Hypertext Markset Language
+D. Hypersheet Markup Language
+ANSWER: A
+
+Elemen DOCTYPE pada HTML berfungsi sebagai
+A. Menguraikan berbagai info yang terkai dengan dokumen, seperti judul dokumen
+B. Memberikan info kepada browser mengenai versi html yang digunakan
+C. Pembuka HTML
+D. Penutup HTML
+ANSWER: B
+
+Yang bukan merupakan 7 konsep dasar web design adalah
+A. Navigasi
+B. Kesederhanaan
+C. Biaya
+D. Buta warna
+ANSWER: C
+
+Yang bukan merupakan cara penggunaan CSS adalah
+A. Inline style Sheet
+B. Internal style Sheet
+C. External style Sheet
+D. On style Sheet
+ANSWER: D

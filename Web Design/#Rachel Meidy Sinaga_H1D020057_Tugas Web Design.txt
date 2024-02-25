@@ -1,0 +1,48 @@
+Berikut yang merupakan fungsi situs web secara umum, kecuali…
+A.Fungsi komunikasi
+B.Fungsi informasi
+C.Fungsi Entertainment
+D.Fungsi Kualifikasi
+ANSWER: D
+
+Sebuah algoritma kriptografi dikatakan aman mutlak tanpa syarat (unconditionally secure) apabila…
+A.Ciphertext yang dihasilkan oleh algoritma tersebut tidak mengandung cukup informasi untuk menentukan plaintextnya
+B.Ciphertext yang dihasilkan oleh algoritma tersebut mampu menahan seluruh serangan yang telah dikenal sebelumnya
+C.Kriptosistem memiliki ruang kunci (keyspace) yang besar
+D.Kriptosistem menghasilkan ciphertext yang terlihat acak dalam seluruh tes statistic
+ANSWER: A
+
+Jika merujuk pada hardware, fungsi dari web server adalah…
+A.Sebagai pusat kontrol untuk memproses permintaan yang diterima dari browser
+B.Sebagai pemberi tanggapan permintaan dalam bentuk halaman situs web atau lebih umumnya dalam dokumen HTML
+C.Sebagai penyimpan semua data seperti HTML dokumen, gambar, file CSS stylesheets, dan file JavaScript
+D.Sebagai penerima permintaan yang dikirimkan melalui browser
+ANSWER: C
+
+Teori bilangan yang diimplementasikan pada  metode kriptografi yang merupakan algoritme perluasan Euclidean yang digunakan untuk mencari invers modulo terhadap operasi penggandaan merupakan teori bilangan…
+A.Aritmatika modular
+B.Algoritma Euclidean
+C.Extended Euclidean Algorithm
+D.Greatest common divisor
+ANSWER: C
+
+Elemen yang digunakan untuk memberikan info kepada browser mengenai versi html yang digunakan adalah…
+A.Elemen HTML
+B.Elemen head
+C.Elemen tag
+D.Elemen DOCTYPE
+ANSWER: D
+
+Teknik yang digunakan dalam kriptografi klasik adalah sebagai berikut, KECUALI…
+A.The Caesar substitution cipher
+B.Virtuous Cylce
+C.Monoalphabetic substitution
+D.Transposition ciphers
+ANSWER: B
+
+Konsep dasar web design berikut ini bisa dijadikan referensi menuju “pengembang web profesional”, kecuali…
+A.Navigasi
+B.Tampilan grafik yang banyak
+C.Pengangkesan yang mudah
+D.Terdapat rasio buta warna
+ANSWER: A

@@ -1,0 +1,48 @@
+Teknologi Web 3.0 diperkirakan berkembang pada tahun?
+A. 2000-2010
+B. 2010-2020
+C. 2005-2010
+D. 1990-2000
+ANSWER: B
+
+Merujuk pada hardware, web server berfungsi menyimpan?
+A. HTML dokumen, file CSS stylesheet, file Javascript
+B. Alamat IP, DNS 
+C. Cloud server, search engine
+D. SSD, HDD, SATA
+ANSWER: A
+
+Elemen dalam dokumen html ditandai dengan penulisan?
+A. Dalam kurung
+B. Semicolon
+C. Tag berpasangan
+D. Titik dua dan "V"
+ANSWER: C
+
+Pada konsep dasar web desain, navigasi yang perlu diperhatikan seperti halnya
+A. Desain grafis, cloud server
+B. Warna font, warna background
+C. URL, DNS, IP Address
+D. Judul HTML, link, site map, tombol home
+ANSWER: D
+
+Apa yang diperlukan dalam mendesain web?
+A. Tidak mengikuti trend desain yang sedang berkembang
+B. Research, mencari inspirasi, membuat rancangan
+C. Belajar namun tidak diimplementasikan
+D. Langsung dikerjakan
+ANSWER: B
+
+Untuk membuat halaman web yang efektif diperlukan strategi untuk?
+A. Tidak membuat kerangkan logis di HTML
+B. Memodifikasi halaman web dengan CSS secara berlebihan 
+C. Membuat halaman-halaman web yang sesuai dengan standard HTML
+D. Mengabaikan target pasar/audiens
+ANSWER: C
+
+Fungsi dari CSS secara garis besar
+A. Membuat konten halaman web
+B. Membuat kerangka logis halaman web
+C. Mengatur tampilan website
+D. Membuat tampilan website menjadi tidak teratur
+ANSWER: C

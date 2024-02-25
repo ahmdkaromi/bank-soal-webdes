@@ -1,0 +1,48 @@
+Yang tidak termasuk fungsi sebuah web adalah...
+A. Fungsi Informasi
+B. Fungsi Konsumsi
+C. Fungsi Transaksi
+D. Fungsi Komunikasi
+Answer: B
+
+WWW singkatan dari...
+A. World Wird Wide
+B. Word Wide Web
+C. World Wireless Web
+D. World Wide Web
+Answer: D
+
+1. Keamanan sistem terletak pada kerahasiaan kunci dan bukan pada kerahasiaan algoritma yang digunakan.<br>2. Kriptosistem yang baik memiliki ruang kunci (keyspace) yang kecil.<br>3. Kriptosistem yang baik akan menghasilkan ciphertext yang terlihat acak dalam seluruh tes statistik yang dilakukan terhadapnya.<br>4. Kriptosistem yang baik mampu menahan seluruh serangan yang telah dikenal sebelumnya.<br>Yang merupakan ciri-ciri dari kriptosistem yang baik adalah...
+A. 1, 3, dan 4
+B. 2, 3, dan 4
+C. 1, 2, dan 4
+D. 1, 2, dan 4
+Answer: A
+
+HTML merupkan singkatan dari...
+A. Hyper Link Markup Leaguage
+C. Hyper Team Markup Laguage
+C. Hyper Tool Markup Laguage
+D. Hyper Test Markup Laguage
+Answer: D
+
+Yang termasuk kriptografi klasik adalah...
+A. Algoritma Asimetris
+B. Algoritma Simetris
+C. Chiper Substitusi
+D. Algoritma Hibrida
+Answer: C
+
+Cara untuk menghubungkan suatu bagian dalam program dengan program lainnya atau suatu halaman web dengan program adalah...
+A. User
+B. Hyperlink
+C. Website
+D. URL
+Answer: B
+
+Sebuah halaman Web pada umumnya merupakan sebuah dokumen yang ditulis dalam format HTML, yang selalu dapat diakses melalui ...
+A. THPT
+B. HTPT
+C. PHTT
+D. HTTP
+Answer: D

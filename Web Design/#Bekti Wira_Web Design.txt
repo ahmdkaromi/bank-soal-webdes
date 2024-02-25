@@ -1,0 +1,48 @@
+Apakah kepanjangan HTML?
+A. HyperText Markup Language
+B. HypoText Markup Language
+C. HyperText Market Language
+D. HypoText Market Language
+ANSWER: A
+
+Software untuk menulis bahasa HTML yang palimh sederhana adalah
+A. Notepad
+B. Ms Word
+C. Ms Excel
+D. Ms Powerpoint
+ANSWER: A
+
+Berikut ini adalah software untuk mendesain halaman web kecuali
+A. Figma
+B. Google Chrome
+C. Bootstrapp Studio
+D. Adobe XD
+ANSWER: B
+
+Untuk membuat garis horizontal didalam web dapat digunakan tag 
+A. <BR>
+B. <HR>
+C. <P>
+D. <H1>
+ANSWER: B
+
+Tag <IMG> memiliki atribut 
+A. SIZE, COLOR, FACE
+B. SIZE , WIDTH
+C. HEIGHT, WIDTH
+D. TYPE
+ANSWER: C
+
+Yang dimaksud dengan alamat web/blog adalah
+A. Link
+B. HTML
+C. URL
+D. Readmore
+ANSWER: C
+
+Judul dalam halaman web diletakkan dalam tag
+A. <body> Judul </body >
+B. <html> Judul </html >
+C. <title> Judul </title>
+D. <head> Judul </head>
+ANSWER: D

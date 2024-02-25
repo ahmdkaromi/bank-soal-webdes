@@ -1,0 +1,48 @@
+Apa perintah yang paling pertama dalam mengawali pembuatan HTML?
+A. <body>
+B. </html>
+C. <table>
+D. <html>
+ANSWER: D
+
+Suatu objek yang dapat berupa teks atau gambar yang dipakai dalam dokumen HTML untuk melompat dari satu dokumen ke dokumen atau tempat lain pada dokumen yang sama adalah?
+A. Frame
+B. Link
+C. Submit
+D. Form
+ANSWER: B
+
+CSS merupakan singkatan dari?
+A. Cascading Style Sheet
+B. Cascading Sheet Style
+C. Cascading Select Style
+D. Cascading Style Select
+ANSWER: A
+
+Penulisan link yang apabila di klik akan menuju ke www.google.com adalah?
+A. <href a www.google.com> </a>
+B. <a href www.google.com> </a>
+C. <a href"www.google.com"> </a>
+D. <a href="www.google.com"></a>
+ANSWER: D
+
+Untuk memberi warna teks web diatur dengan mengubah nilai atribut?
+A. textcolor
+B. headcolor
+C. fontcolor
+D. bgcolor
+ANSWER: C
+
+Jenis Website yang mana penggunanya tidak bisa merubah konten dari Web tersebut secara langsung menggunakan Browser.<br>Merupakan pengertian dari?
+A. Web Dinamis
+B. Web Statis
+C. Web Server
+D. Web Client
+ANSWER: B
+
+Contoh Web browser kecuali?
+A. Google Drive
+B. Mozilla Firefox
+C. Opera
+D. Google Chrome
+ANSWER: B

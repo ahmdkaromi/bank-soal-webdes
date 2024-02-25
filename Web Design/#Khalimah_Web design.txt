@@ -1,0 +1,48 @@
+Apa yang dimaksud dengan intranet?
+A. Jaringan-jaringan komputer yang saling terkoneksi di seluruh dunia
+B. Sistem yang terdiri dari dua atau lebih komputer yang saling sharing dalam menggunakan sumber daya
+C. Jaringan komputer yang saling terkoneksi disuatu area lokal
+D. Sebuah jaringan pengguna (pribadi) yang menggunakan protokol internet serta juga sistem telekomunikasi publik untuk dapat membagi sebagian informasi bisnis atau juga operasi itu dengan secara aman kepada penyalur, penjual, mitra, dll
+ANSWER: C
+
+Salah satu bentuk layanan yang dapat diakses melalui internet yang merupakan sekumpulan dokumen, gambar-gambar, dan bentuk resources yang lainnya yang dihubungkan melalui hyperlinks dan URLs disebut?
+A. Web server
+B. WWW 
+C. HTML
+D. HTTP
+ANSWER: B
+
+Apa kepanjangan dari HTML?
+A. Hyper Tool Markup Language
+B. Hyper Team Markup Language
+C. Hyper Test Markup Language
+D. Hyper Text Markup Language
+ANSWER: D
+
+sintak dibawah ini yang benar untuk menambahkan warna background atau latar belakang yaitu?
+A. <body bgcolor = "green"> </body>
+B. <body style ='background-green'> </body>
+C. <latarbelakang>hijau<green>
+D. <background>green</background>
+ANSWER: A
+
+Membuat mock up merupakan prototype fisik tingkat berapa?
+A. Pertama
+B. Kedua
+C. Ketiga
+D. Keempat
+ANSWER: A
+
+Apa yang dimaksud dengan prototyping software?
+A. Kegiatan memasarkan program
+B. Kegiatan menjelaskan tentang program
+C. Kegiatan membuat prototype perangkat lunak
+D. Kegiatan membuat suatu program
+ANSWER: C
+
+Dibawah ini yang bukan merupakan bagian dari CSS yaitu?
+A. Deklarasi
+B. Tag
+C. Selector
+D. Property
+ANSWER: B

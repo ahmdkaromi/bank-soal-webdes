@@ -1,0 +1,48 @@
+Apa kepanjangan dari TCP?
+A. Transmission Control Protocol
+B. Transfer Control Protocol
+C. Technical Control Protocol
+D. Transfer Counter Protocol
+ANSWER : A
+
+Metode atau pendekatan sistem web desain yang bertujuan memberikan pengalaman berselancar yang optimal dalam berbagai perangkat, baik mobile maupun komputer meja merupakan pengertian dari?
+A. Website Responsive
+B. Website Adaptive
+C. Website Excellent
+D. Website Design
+ANSWER : A
+
+Tag pada HTML yang digunakan untuk membuat text paragraf yang benar adalah?
+A. <p></p>
+B. <text></text>
+C. <paragraph></paragraph>
+D. <font></font>
+ANSWER : A
+
+Konsep dasar web design yaitu, kecuali?
+A. Kesederhanaan
+B. Navigasi
+C. Kompleksitas
+D. Penggunaan yang mudah
+ANSWER : C
+
+Dalam web design terdapat suatu pekerjaan yang dilakukan terfokus pada mendesain grafis suatu website atau aplikasi saja tanpa begitu memperhatikan pengalaman dan unsur-unsur penggunaan website atau aplikasi adalah pekerjaan sebagai?
+A. AI Designer
+B. UI Designer
+C. UX Designer
+D. UI & UX Designer
+ANSWER : B
+
+Dibawah ini merupakan struktur tag minimal dari pembuatan tabel pada HTML adalah?
+A. <table> <tr> <td> </td> </tr> </table>
+B. <table> <td> <tr> </tr> </td> </table>
+C. </table> <td> <tr> </tr> </td> <table>
+D. <table> <td> <td> </td> </td> <table>
+ANSWER : A
+
+Perhatikan kode berikut : background-image: url("images/halo.png"); adalah kode pada CSS yang bertujuan untuk?
+A. Mengubah warna background
+B. Mengubah ukuran gambar
+C. Memanipulasi bentuk pada gambar
+D. Mengimport gambar sebagai background
+ANSWER : D

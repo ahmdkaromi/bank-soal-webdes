@@ -1,0 +1,48 @@
+Berdasarkan pilihan dibawah ini, yang manakah yang bukan merupakan fungsi dari situs web?  
+A. Fungsi Transaksi
+B. Fungsi Pendekatan
+C. Fungsi Komunikasi
+D. Fungsi Informasi
+ANSWER: B
+
+Sebelum munculnya internet, telah ada beberapa sistem komunikasi berbasis digital, salah satunya sistem telegraf.<br>Apakah kekurangan dari fungsi telegraf? 
+A. Hanya mampu menghubungkan maksimal dua perangkat
+B. Tidak ramah lingkungan
+C. Sulit ditemui
+D. Banyak dipakai
+ANSWER: A
+
+Sebagai pusat control untuk memproses permintaan yang diterima dari browser, merupakan fungsi dari apa? 
+A. Web design
+B. Web server
+C. Hacking
+D. Web browser
+ANSWER: B
+
+Elemen apa yang berfungsi untuk menguraikan berbagai info yang terkait dengan dokumen, judul dokumen dalam suatu dokumen HTML?
+A. Elemen HTML
+B. Elemen DOCTYPE
+C. Elemen Head
+D. Elemen paragraf
+ANSWER: C
+
+Elemen styling yg tidak termasuk dalam styling CSS adalah …
+A. Text styling
+B. Font styling
+C. List styling
+D. Picture styling
+ANSWER: D
+
+Apakah fungsi dari navigasi dalam suatu web design?
+A. Untuk memudahkan pengunjung dalam menemukan informasi.
+B. Agar enak dipandang
+C. Untuk mempercepat proses di web
+D. Semua salah
+ANSWER: A
+
+Aturan untuk mengendalinkan beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan website, disebut apa?
+A. HTML
+B. CSS
+C. Javascript
+D. PHP
+ANSWER: B

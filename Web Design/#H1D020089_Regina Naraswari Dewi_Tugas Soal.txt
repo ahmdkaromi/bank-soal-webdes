@@ -1,0 +1,48 @@
+Suatu kumpulan – kumpulan halaman yang menampilkan berbagai macam informasi teks, data, gambar diam ataupun bergerak, data animasi, suara, video atau gabungan dari semuanya merupakan pengertian dari ….
+A. Web hosting
+B. Website
+C. Hyperlink
+D. Bahasa program
+ANSWER: B
+
+Fungsi utama web server adalah...
+A. Mencatat halaman web
+B. Mentransfer seluruh berkas atau file dalam sebuah web halaman
+C. Menyimpan gambar
+D. Membuat berkas baru
+ANSWER: B
+
+HTML adalah singkatan dari ….
+A. Hyper Text Mail Languange
+B. Hyper Text More Languange
+C. Hyper Touch Mail Languange
+D. Hyper Text Markup Languange
+ANSWER: D
+
+Yang bukan Konsep dasar web design adalah
+A. Navigasi
+B. Kesederhanaan
+C. Konsep
+D. Grafik
+ANSWER: C
+
+Untuk memisahkan baris pada web dapat digunakan tag ….
+A. <b> 
+B. <br> 
+C. <u>
+D. <p>
+ANSWER : B
+
+Sintak yang benar untuk menambahkan warna background atau latar belakang dibawah ini adalah...
+A. <body style=’background-color:green’>
+B. <body style=’background-green’>
+C. <body style=’background-:color:green’>
+D. <background>green</background>
+ANSWER: A
+
+Selector CLASS dilambangkan dengan simbol :
+A.  #
+B.  .
+C.  /
+D.  *
+ANSWER: B

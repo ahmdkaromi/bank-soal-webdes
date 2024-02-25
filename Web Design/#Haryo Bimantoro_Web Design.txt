@@ -1,0 +1,48 @@
+Website akan lebih terlihat berwarna dan bervariasi menggunakan
+A. CSS
+B. JavaScript
+C. HTML
+D. Java
+ANSWER: A
+
+HTML singkatan dari
+A. Hypertext Making Language
+B. Hypertext Markup Language
+C. Hypertext Modding Languange
+D. Hypertext Modelling Languange
+ANSWER: B
+
+HTML pertama kali dibuat pada tahun
+A. 1994
+B. 1993
+C. 1992
+D. 1991
+ANSWE: D
+
+HTML dikembangkan oleh?
+A. Mark Zuckerberg
+B. Gabe Newell
+C. Tim Berner
+D. Larry Page
+ANSWER: C
+
+CSS awalnya dirilis pada tahun
+A. 1997
+B. 1996
+C. 1995
+D. 1994
+ANSWER: B
+
+HTML Vers ke-5 dirilis pada bulan 
+A. Oktober 2014
+B. Januari 2014
+C. Maret 2014
+D. November 2014
+ANSWER: A
+
+CSS singkatan dari
+A. Custom Style Sheet
+B. Computerized Style Sheet
+C. Cascading Style Sheet
+D. Compiler Style Sheet
+ANSWER: C

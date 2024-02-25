@@ -1,0 +1,51 @@
+Berikut ini adalah fungsi dari web desain adalah... , kecuali
+A. Komunikasi
+B. Informasi
+C. Entertainment
+D. Transportasi
+ANSWER:D
+
+Perangkat lunak yang berfungsi sebagai penerima permintaan yang dikirimkan melalui browser kemudian memberikan tanggapan permintaan dalam bentuk halaman situs web atau lebih umumnya dalam dokumen HTML adalah
+A. Software
+B. OS
+C. Web Server
+D. CSS
+ANSWER:C
+
+Pada html tag yang berfungsi untuk membuat judul di tab browser adalah
+A. <title>
+B. <p>
+C. <h1>
+D. <table>
+ANSWER:A
+
+Berikut adalah konsep dasar web desain, kecuali..
+A. Navigasi
+B. Grafik
+C. Penggunaan yang mudah
+D. Rumit
+ANSWER:D
+
+CSS adalah singkatan dari..
+A. Cascading Style Sheets
+B. Cascade Style Sheets
+C. Cascade Short Sheets
+D. Cascading Short Sheets
+ANSWER:A
+
+Sebuah halaman web bisa diisi dengan tulisan, gambar,animasi dan video.<br>Tapi semua itu dalam dunia web disebut dengan istilah
+A. Javascript
+B. Konten
+C. Platform
+D. webpage
+ANSWER:B
+
+Yang merupakan web design software adalah..
+A. Google
+B. Wikipedia
+C. Wordpress
+D. github
+ANSWER:C
+
+
+

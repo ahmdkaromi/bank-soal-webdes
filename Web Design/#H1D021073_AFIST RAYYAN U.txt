@@ -1,0 +1,50 @@
+Jenis desain grafis yang ditujukan untuk pengembangan dan styling obyek lingkungan informasi Internet untuk menyediakan dengan fitur konsumen high-end dan kualitas estetika.<br>merupakan pengertian dari 
+A.Web Design
+B.HTML
+C.CSS
+D.XML
+ANSWER: A
+
+kumpulan web server dari seluruh dunia yang berfungsi menyediakan data dan informasi untuk digunakan bersama-sama.<br>Merupakan Pengertian dari
+A.Web
+B.www
+C.Website
+D.Web Pages
+ANSWER: B
+
+HTML merupkan singkatan dari
+A. Hyper Link Markup Leaguage
+B. Hyper Test Markup Laguage
+C. Hyper Tool Markup Laguage
+D. Hyper Text Markup Laguage
+ANSWER: B
+
+Jika kita ingin membuat garis datar (horizontal), kita perlu menuliskan perintah
+A.<img
+B.<break>
+C.<break>
+D.<hr>
+ANSWER: D
+
+Berikut ini adalah Bahasa Pemrograman Web, kecuali:
+A.XML 
+B.Javascript 
+C.CSS
+D.EXL
+ANSWER: D
+
+Fungsi bg color dalam membuat table adalah...
+A.Warna latar belakang pada table
+B.Warna desktop
+C.Warna latar belakang moitor
+D.Warna latar belakang HTML
+ANSWER: D
+
+Untuk memisahkan baris pada web dapat digunakan tag ….
+A.<B> 
+B.<BR> 
+C.<U>
+D.<P>
+ANSWER: B
+
+

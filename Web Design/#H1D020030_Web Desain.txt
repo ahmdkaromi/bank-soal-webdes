@@ -1,0 +1,48 @@
+Berikut ini merupakan fungsi situs web agar desain yang dibuat sesuai dengan fungsi situs web yang benar adalah...
+A. Fungsi komunikasi, informasi, estetika, pengetahuan
+B. Fungsi komunikasi, entertainment, transaksi, dan informasi
+C. Fungsi komunikasi, referensi, keilmuan, dan estetika
+D. Fungsi Komunikasi, informasi, estetika, transaksi
+ANSWER: B
+
+Jaringan komputer yang saling terkoneksi di suatu area lokal disebut dengan...
+A. Internet
+B. Intranet
+C. Jaringan Komputer
+D. Internet Private
+ANSWER: B
+
+Sistem kriptografi yang baik harus memiliki karakteristik sebagai berikut, kecuali...
+A. Keamanan sistem terletak pada kerahasiaan algoritma yang digunakan
+B. Kriptosistem yang baik memiliki ruang kunci yang besar
+C. Kriptosistem yang baik menghasilkan ciphertext yg terlihat acak dalam seluruh tes statik yang dilakukan terhadapnya.
+D. Kriptosistem mampu menahan seluruh serangan yang telah dikenal sebelumnya
+ANSWER: A
+
+Berikut yang merupakan kelebihan dari HTML, kecuali...
+A. dapat digunakan pada berbagai jenis mesin komputer dan sistem operasi yang berbeda
+B. dapat disisipi gambar statis maupun dinamis
+C. menghasilkan halaman yang statis
+D. tidak memerlukan compiler
+ANSWER: C
+
+Metode menyandikan teks alfabet dengan menggunakan deretan sandi Caesar berdasarkan huruf-huruf pada kata kunci, merupakan metode...
+A. Vigenere Cipher
+B. Playfair Cipher
+C. Polygraphic
+D. Caesar Cipher
+ANSWER: A
+
+Berikut merupakan konsep dasar web desain yang benar adalah...
+A. Navigasi, Kecanggihan, Penggunaan yang menarik, Grafik, Pengaksesan yang menarik, Buta warna
+B. Navigasi, Kesederhanaan, Penggunaan yang mudah, Grafik, Pengaksesan yang mudah, Perpaduan warna yang cantik
+C. Navigasi, Kecanggihan, Penggunaan yang mudah, Grafik, Pengaksesan yang mudah, Buta warna
+D. Navigasi, Kesederhanaan, Penggunaan yang mudah, Grafik, Pengaksesan yang mudah, Buta warna
+ANSWER: D
+
+Berikut ini merupakan jawaban yang paling sesuai mengenai alasan mengapa pada import pada CSS digunakan di bagian atas file...
+A. Agar programmer tidak lupa 
+B. Agar lebih mudah untuk dicari
+C. Untuk menghindari masalah mengenai override set aturan yang sudah ada
+D. Agar tidak khawatir import akan terhapus ketika menghapus banyak source code.
+ANSWER: C

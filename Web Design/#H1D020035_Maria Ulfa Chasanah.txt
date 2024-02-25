@@ -1,0 +1,48 @@
+Web dinamis yang dibuat menggunakan pemrograman web (server side) yang dilengkapi dengan fasilitas seperi web mail, form contact, dan chatting room merupakan salah satu web yang fokus pada fungsi dari website yaitu ....
+A. Fungsi Informasi
+B. Fungsi Komunikasi
+C. Fungsi Entertaiment
+D. Fungsi Transaksi
+ANSWER: B
+
+HTML adalah singkatan dari ....
+A. Hyper Text Markup Language
+B. Hyper Tool Markup Language
+C. Hyper Test Markup Language
+D. Hyper Then Markup Language
+ANSWER: A
+
+CSS merupakan kependekan dari ....
+A. Case Select Sheet
+B. Cascading Select Sheet
+C. Case Style Sheet
+D. Cascading Style Sheet
+ANSWER: D
+
+Jika ingin memberi format tulisan menjadi tebal dan miring maka tag yang digunakan adalah ....
+A. <b> </b> <i> </i>
+B. <b> <i> </b> </i>
+C. <b> <i> </i> </b>
+D. <b i> </i b>
+ANSWER: C
+
+Di bawah ini yang bukan merupakan jenis hyperlink pada html adalah ....
+A. Eksternal Page
+B. Internal Page
+C. Eksternal Link
+D. Internal Link
+ANSWER: A
+
+Jenis inputan pada form html yang menggunakan tag input kecuali ....
+A. Radio Button
+B. Chechbox
+C. Dropdown
+D. Password
+ANSWER: C
+
+Salah satu jenis selektor CSS adalah class. Untuk mendeklarasikan sebuah selektor class, tanda yang digunakan di depan nama class adalah ....
+A. Tanda ':' (titik dua)
+B. Tanda '.' (titik)
+C. Tanda '#' (kresh)
+D. Tanda '*' (bintang)
+ANSWER: B

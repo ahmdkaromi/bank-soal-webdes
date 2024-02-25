@@ -1,0 +1,48 @@
+Kumpulan halaman dalam suatu domain yang memuat tentang berbagai informasi agar dapat dibaca dan dilihat oleh pengguna internet melalui sebuah mesin pencari disebut ....
+A. Website
+B. Subdomain
+C. URL
+D. Internet
+ANSWER: A
+
+Sebuah layanan online yang digunakan untuk mengelola data situs atau aplikasi web oleh pengguna dan ditampilkan melalui via internet.<br>Merupakan pengertian dari ....
+A. Web Browser
+B. Client
+C. Server
+D. Host
+ANSWER: D
+
+HTML pertama kali ditemukan oleh ....
+A. Brendan Eich
+B. Tim Berners-Lee
+C. Guido Van Rossum
+D. Jhonny Oracle
+ANSWER: B
+
+Berikut yang bukan merupakan konsep dasar web design adalah ....
+A. Dapat Digunakan (Usability)
+B. Mudah Diakses (Accessability)
+C. Navigasi (Navigation)
+D. Kerumitan (Complexity)
+ANSWER: D
+
+Situs web yang dibuat menggunakan pemrograman web(server side) dan dilengkapi dengan fasilitas yang memberikan fungsi-fungsi komunikasi seperti web mail merupakan fungsi .... dalam web design.
+A. Informasi
+B. Komunikasi
+C. Transaksi
+D. Entertainment
+ANSWER: B
+
+Bahasa pemrograman yang digunakan untuk mengubah tampilan visual pada suatu web adalah ....
+A. HTML
+B. Python
+C. CSS
+D. SQL
+ANSWER: C
+
+Properti pada CSS yang digunakan untuk memberi warna sebuah teks adalah ....
+A. Font color
+B. Background color
+C. Border color
+D. Padding color
+ANSWER: A

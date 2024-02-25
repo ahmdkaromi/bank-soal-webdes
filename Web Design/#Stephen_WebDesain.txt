@@ -1,0 +1,48 @@
+Jaringan yang saling terkoneksi di suatu area lokal disebut juga
+A. Internet
+B. WAN
+C. Mini Internet
+D. MAN
+ANSWER: C
+
+Sebuah perangkat lunak atau perangkat keras yang berfungsi untuk menerima permintaan client yang disampaikan melalui browser dan memrosesnya, serta mengirimkannya dalam bentuk kode-kode yang akan ditranlasikan oleh browser lagi adalah
+A. Web Browser
+B. Web Server
+C. Web Client
+D. Web Host
+ANSWER: B
+
+Atribut dalam html yang dimasukkan ke dalam tag td di kasus table jikalau akan membuat 2 atau lebih kolom menjadi 1 kotak adalah atribut
+A. rowspan
+B. rowmerge
+C. colsone
+D. colsmerge
+ANSWER: A
+
+Bagaimana jika di dalam suatu website terdapat banyak iklan dan perlu banyak klik tombol di awal mengunjungi website? Apa dampak bagi pengunjung website?
+A. Tulisan pada layar sulit terbaca karena ukuran huruf yang terlalu kecil
+B. Konten acak-aczakan karena web belum responsive
+C. Waktu mengunduh gambar pada website menjadi lama sehingga pengunjung tidak dapat menikmati isi website dengan baik
+D. Pengunjung menjadi tidak betah mengunjungi website, karena cara pengaksesan terhadap informasi website yang sulit
+ANSWER: D
+
+Yang merupakan termasuk ke dalam salah satu framework CSS di jaman modern saat ini, sesuai perkembangan jaman adalah
+A. Booting
+B. Tailhorse CSS
+C. Tailwind CSS
+D. SASB
+ANSWER: C
+
+Tahapan untuk membuat desain sketsa dari web yang akan menjadi sasaran desain, digunakan tahapan membuat
+A. Blueprint
+B. Aplikasi Figma
+C. Aplikasi Canva
+D. File svg dan mp4 serta file codingannya
+ANSWER: A
+
+Salah satu property pada CSS yang digunakan untuk mengatur ukuran kelengkungan dari sudut tepi sebuah element adalah
+A. border-shadow
+B. border-size
+C. border-radius
+D. border-degree
+ANSWER: C
